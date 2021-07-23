@@ -1,7 +1,7 @@
 ---
 layout: archive
 title:
-permalink: /about/
+permalink: /
 author_profile: true
 classes: wide
 
