@@ -113,12 +113,17 @@ author:
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/seongho-yeon"
+    - label: "MIT Media Lab Profile"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.media.mit.edu/people/syeon/projects/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=HQuyvQwAAAAJ&hl=en"
     - label: "CV"
       icon: "fas fa-fw fas fa-fw fa-download"
       url: "https://seongho-yeon.github.io/assets/files/SeongHo_Yeon_CV_july24th.pdf"
+    - label: 
+      
 
 
 # Site Footer
