@@ -16,6 +16,7 @@ feature_row:
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "Embedded EMG System for Human Applications"
+  btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   alt: "customizable"
