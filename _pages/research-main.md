@@ -15,9 +15,9 @@ intro:
   
 feature_row1:
 - image_path: /assets/images/test.jpg
-  width: 350
-  alt: "customizable"
-  title: "Embedded EMG System for Human App"
+  width: 88
+  alt: "placeholder image 1"
+  title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
   excerpt: "Description for this project"
   url: "/docs/research/research-embedded-emg" 
   btn_class: "btn"
@@ -26,7 +26,9 @@ feature_row1:
   btn_color: "black"
 
 - image_path: /assets/images/test.jpg
-  alt: "customizable"
+  alt: "customizable2"
+  width: 88
+
   excerpt: "Description for this project"
   url: "/docs/research/research-flexible-electrode" 
   btn_class: "btn"
@@ -35,7 +37,7 @@ feature_row1:
   btn_color: "black"
 
 - image_path: /assets/images/test.jpg
-  alt: "customizable"
+  alt: "customizable3"
   excerpt: "Description for this project"
   url: "/docs/research/research-climbing-ankle-prosthesis" 
   btn_class: "btn"
@@ -44,7 +46,7 @@ feature_row1:
   btn_color: "black"
 
 - image_path: /assets/images/test.jpg
-  alt: "customizable"
+  alt: "customizable4"
   excerpt: "Description for this project"
 
   url: "/docs/research/research-magnetomicrometry" 
@@ -54,7 +56,7 @@ feature_row1:
   btn_color: "black"
 
 - image_path: /assets/images/test.jpg
-  alt: "customizable"
+  alt: "customizable5"
   excerpt: "Description for this project"
   url: "/docs/research/research-tools-for-animal-physiology" 
   btn_class: "btn"
