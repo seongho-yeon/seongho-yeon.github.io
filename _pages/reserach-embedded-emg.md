@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Embedded EMG System
-permalink: /docs/research/embedded-emg
+permalink: /docs/research/research-embedded-emg
 author_profile: false
 classes: wide
 ---
