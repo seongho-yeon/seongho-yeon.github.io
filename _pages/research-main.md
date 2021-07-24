@@ -15,8 +15,9 @@ intro:
   
 feature_row1:
 - image_path: /assets/images/test.jpg
-  width: 88
+  image_width: 88
   alt: "placeholder image 1"
+  image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
   title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
   excerpt: "Description for this project"
   url: "/docs/research/research-embedded-emg" 
@@ -27,7 +28,7 @@ feature_row1:
 
 - image_path: /assets/images/test.jpg
   alt: "customizable2"
-  width: 88
+  image_width: 88
 
   excerpt: "Description for this project"
   url: "/docs/research/research-flexible-electrode" 
