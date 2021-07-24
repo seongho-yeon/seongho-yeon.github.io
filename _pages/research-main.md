@@ -7,16 +7,17 @@ header:
   actions:
     - label: #"<i class='fas fa-download'></i> Install now"
       url: #"/docs/quick-start-guide/"
-excerpt: "Header description seems to go here"
+  excerpt: "Header description seems to go here"
 
 
 intro: 
-  - excerpt: 'intro goes here?'
+  - excerpt: 'Research intro?'
   
 feature_row1:
 - image_path: /assets/images/test.jpg
   width: 350
   alt: "customizable"
+  title: "[Test title](/docs/research/research-embedded-emg)"
   excerpt: "Description for this project"
   url: "/docs/research/research-embedded-emg" 
   btn_class: "btn"
@@ -73,6 +74,8 @@ feature_row1:
 
 {% include feature_row id="feature_row1" type="left" %}
 
+# Test Here?
+Hm?
 <!-- {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
