@@ -55,7 +55,6 @@ feature_row4:
   btn_label: "Magnetomicrometry"
   btn_color: "black"
 
-feature_row5:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
   excerpt: "Description for this project"
@@ -84,4 +83,4 @@ feature_row5:
 
 {% include feature_row id="feature_row4" type="center" %}
 
-{% include feature_row id="feature_row5" type="right" %}
+<!-- {% include feature_row id="feature_row5" type="right" %} -->
