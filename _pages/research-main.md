@@ -15,9 +15,7 @@ feature_row:
   url: "/docs/research/research-embedded-emg" 
   btn_class: "btn"
   btn_size: "btn--small"
-  btn_label: "Embedded EMG System
-   for Human Applications"
-  btn_color: "black"
+  btn_label: "Embedded EMG System for Human Applications"
 
 - image_path: /assets/images/test.jpg
   alt: "customizable"
