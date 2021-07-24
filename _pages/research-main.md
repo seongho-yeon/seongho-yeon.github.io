@@ -15,6 +15,7 @@ intro:
   
 feature_row1:
 - image_path: /assets/images/test.jpg
+  width: 350
   alt: "customizable"
   excerpt: "Description for this project"
   url: "/docs/research/research-embedded-emg" 
@@ -23,7 +24,6 @@ feature_row1:
   btn_label: "Embedded EMG System for Human Applications"
   btn_color: "black"
 
-feature_row2:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
   excerpt: "Description for this project"
@@ -33,8 +33,6 @@ feature_row2:
   btn_label: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
   btn_color: "black"
 
-
-feature_row3:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
   excerpt: "Description for this project"
@@ -44,7 +42,6 @@ feature_row3:
   btn_label: "Neurally-controlled Rock Climbing Ankle Prosthesis"
   btn_color: "black"
 
-feature_row4:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
   excerpt: "Description for this project"
@@ -76,10 +73,10 @@ feature_row4:
 
 {% include feature_row id="feature_row1" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+<!-- {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row4" type="left" %} -->
 
 <!-- {% include feature_row id="feature_row5" type="right" %} -->
