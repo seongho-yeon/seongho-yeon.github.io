@@ -17,7 +17,7 @@ feature_row1:
 - image_path: /assets/images/test.jpg
   width: 350
   alt: "customizable"
-  title: [Test title2](/docs/research/research-embedded-emg)
+  title: "Embedded EMG System for Human App"
   excerpt: "Description for this project"
   url: "/docs/research/research-embedded-emg" 
   btn_class: "btn"
