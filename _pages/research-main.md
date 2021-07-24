@@ -7,8 +7,13 @@ header:
   actions:
     - label: #"<i class='fas fa-download'></i> Install now"
       url: #"/docs/quick-start-guide/"
-excerpt:
-feature_row:
+excerpt: "Header description seems to go here"
+
+
+intro: 
+  - excerpt: 'intro goes here?'
+  
+feature_row1:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
   excerpt: ""
@@ -18,6 +23,7 @@ feature_row:
   btn_label: "Embedded EMG System for Human Applications"
   btn_color: "black"
 
+feature_row2:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
   excerpt: ""
@@ -27,6 +33,8 @@ feature_row:
   btn_label: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
   btn_color: "black"
 
+
+feature_row3:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
   excerpt: ""
@@ -36,6 +44,7 @@ feature_row:
   btn_label: "Neurally-controlled Rock Climbing Ankle Prosthesis"
   btn_color: "black"
 
+feature_row4:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
   excerpt: ""
@@ -45,6 +54,7 @@ feature_row:
   btn_label: "Magnetomicrometry"
   btn_color: "black"
 
+feature_row5:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
   excerpt: ""
@@ -60,4 +70,16 @@ feature_row:
 
 <!-- https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_pages/home.md -->
 <br />
-{% include feature_row %}
+
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="center" %}
+
+{% include feature_row id="feature_row5" type="center" %}

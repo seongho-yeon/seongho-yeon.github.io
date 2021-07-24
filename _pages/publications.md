@@ -19,25 +19,3 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ### <span style="color:red">Chemistry-Climate Interactions</span>
 * Yook, S., D. W. J. Thompson, S. Solomon, and S.-Y. Kim, 2020: The key role of coupled chemistry-climate interactions in tropical stratospheric temperature variability. J. Climate, 33, 7619-7629.
 \[[pdf](http://shimyook.github.io/files/JCL2020.pdf)\]
-
----
-layout: splash
-permalink: /docs/research/
-header:
-  overlay_color: #"#5e616c"
-  overlay_image: #/assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: #"<i class='fas fa-download'></i> Install now"
-      url: #"/docs/quick-start-guide/"
-excerpt:
-feature_row:
-- image_path: /assets/images/test.jpg
-  alt: "customizable"
-  excerpt: ""
-  url: "/docs/research/research-embedded-emg" 
-  btn_class: "btn"
-  btn_size: "btn--small"
-  btn_label: "Embedded EMG System for Human Applications"
-  btn_color: "black"
-
----

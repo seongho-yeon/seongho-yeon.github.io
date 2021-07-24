@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /docs/research/
+permalink: /docs/otherworks-main/
 header:
   overlay_color: #"#5e616c"
   overlay_image: #/assets/images/mm-home-page-feature.jpg
@@ -11,7 +11,7 @@ excerpt:
 feature_row:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
-  title: "Embedded EMG System for Human Applications"
+  title: "Test"
   excerpt: ""
   url: "/docs/research/research-embedded-emg" 
   btn_class: "btn--primary"
