@@ -16,7 +16,7 @@ intro:
 feature_row1:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
-  excerpt: ""
+  excerpt: "Description for this project"
   url: "/docs/research/research-embedded-emg" 
   btn_class: "btn"
   btn_size: "btn--small"
@@ -26,7 +26,7 @@ feature_row1:
 feature_row2:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
-  excerpt: ""
+  excerpt: "Description for this project"
   url: "/docs/research/research-flexible-electrode" 
   btn_class: "btn"
   btn_size: "btn--small"
@@ -37,7 +37,7 @@ feature_row2:
 feature_row3:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
-  excerpt: ""
+  excerpt: "Description for this project"
   url: "/docs/research/research-climbing-ankle-prosthesis" 
   btn_class: "btn"
   btn_size: "btn--small"
@@ -47,7 +47,8 @@ feature_row3:
 feature_row4:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
-  excerpt: ""
+  excerpt: "Description for this project"
+
   url: "/docs/research/research-magnetomicrometry" 
   btn_class: "btn"
   btn_size: "btn--small"
@@ -57,7 +58,8 @@ feature_row4:
 feature_row5:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
-  excerpt: ""
+  excerpt: "Description for this project"
+
   url: "/docs/research/research-tools-for-animal-physiology" 
   btn_class: "btn"
   btn_size: "btn--small"
@@ -82,4 +84,4 @@ feature_row5:
 
 {% include feature_row id="feature_row4" type="center" %}
 
-{% include feature_row id="feature_row5" type="center" %}
+{% include feature_row id="feature_row5" type="right" %}
