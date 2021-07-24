@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /docs/research/
 header:
   overlay_color: #"#5e616c"
   overlay_image: #/assets/images/mm-home-page-feature.jpg
@@ -8,15 +8,49 @@ header:
     - label: #"<i class='fas fa-download'></i> Install now"
       url: #"/docs/quick-start-guide/"
 excerpt:
-
 feature_row:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
-  title: "Embedded EMG System"
+  title: "Embedded EMG System for Human Applications"
   excerpt: ""
-  url: "/docs/research/embedded-emg" 
+  url: "/docs/research/research-embedded-emg" 
   btn_class: "btn--primary"
   btn_label: "Learn more"
+
+- image_path: /assets/images/test.jpg
+  alt: "customizable"
+  title: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
+  excerpt: ""
+  url: "/docs/research/research-flexible-electrode" 
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
+- image_path: /assets/images/test.jpg
+  alt: "customizable"
+  title: "Neurally-controlled Rock Climbing Ankle Prosthesis"
+  excerpt: ""
+  url: "/docs/research/research-climbing-ankle-prosthesis" 
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
+- image_path: /assets/images/test.jpg
+  alt: "customizable"
+  title: "Magnetomicrometry"
+  excerpt: ""
+  url: "/docs/research/research-magnetomicrometry" 
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
+- image_path: /assets/images/test.jpg
+  alt: "customizable"
+  title: "Tools for Animal Physiology"
+  excerpt: ""
+  url: "/docs/research/research-tools-for-animal-physiology" 
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
+
+
 
 ---
 
