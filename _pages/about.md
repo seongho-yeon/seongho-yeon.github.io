@@ -9,5 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-Testing my about page.
-Test Test Test
+Ph.D student
+MIT
+MIT media lab
+enter for extreme bionics
+
+Technical skilss
