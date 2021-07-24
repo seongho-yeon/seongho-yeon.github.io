@@ -1,9 +1,12 @@
 ---
-layout: single
-title: About
 permalink: /
+title: "About me"
+excerpt: "About me"
 author_profile: true
-classes: wide
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Testing my about page.
+Test Test Test
