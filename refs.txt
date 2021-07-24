@@ -10,3 +10,5 @@ http://people.csail.mit.edu/liyunzhu/
 http://www.matthematic.com/projects/academic.html
 https://lina-boljka.github.io/
 https://shimyook.github.io/
+https://whatapalaver.co.uk/clickable-images-jekyll
+https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#buttons
