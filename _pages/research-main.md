@@ -21,7 +21,7 @@ feature_row:
 
 - image_path: /assets/images/test.jpg
   alt: "customizable"
-  title: "[Flexible EMG Electrode for Sub-Liner Interface for Prosthesis]("/docs/research/research-embedded-emg)"
+  title: "TEST2"
   excerpt: ""
   url: "/docs/research/research-flexible-electrode" 
   btn_class: "btn--primary"
