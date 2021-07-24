@@ -58,7 +58,6 @@ feature_row4:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
   excerpt: "Description for this project"
-
   url: "/docs/research/research-tools-for-animal-physiology" 
   btn_class: "btn"
   btn_size: "btn--small"
@@ -81,6 +80,6 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
 
 <!-- {% include feature_row id="feature_row5" type="right" %} -->
