@@ -11,11 +11,9 @@ excerpt:
 feature_row:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
-  title: ""
-  caption: 
   excerpt: ""
   url: "/docs/research/research-embedded-emg" 
-  btn_class: "btn--inverse"
+  btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "Embedded EMG System for Human Applications"
 
