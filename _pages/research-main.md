@@ -11,11 +11,13 @@ excerpt:
 feature_row:
 - image_path: /assets/images/test.jpg
   alt: "customizable"
-  title: "Embedded EMG System for Human Applications"
+  title: ""
+  caption: 
   excerpt: ""
   url: "/docs/research/research-embedded-emg" 
-  btn_class: "btn--primary"
-  btn_label: "Learn more"
+  btn_class: "btn--inverse"
+  btn_size: "btn--small"
+  btn_label: "Embedded EMG System for Human Applications"
 
 - image_path: /assets/images/test.jpg
   alt: "customizable"
