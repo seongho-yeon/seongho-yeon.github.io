@@ -19,7 +19,7 @@ classes: wide
 ---
 
 ### This MIT Engineer Built His Own Bionic Leg
-"This MIT Engineer Built His Own Bionic Leg", Bloomberg Documentary, Dec. 2019. Demonstrating neu-rally controlled ankle prosthesis system.
+"This MIT Engineer Built His Own Bionic Leg", Bloomberg Documentary, Dec. 2019. Demonstrating neurally controlled ankle prosthesis system.
 {% include video id="kaFiwC1xh2Y" provider="youtube" %}
 
 ---
