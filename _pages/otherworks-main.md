@@ -54,8 +54,10 @@ feature_row_georgiatech:
 <br />
 
 
-
 {% include feature_row id="intro" type="center" %}
+
+Here: ADD map of my research projects
+maybe map of research collaborators.
 
 Internship Projects
 {% include feature_row id ="feature_row_industry" %}
