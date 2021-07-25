@@ -29,30 +29,36 @@ feature_row_research:
   
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-flexible-electrode" 
+  url: "/docs/research/research-flexible-electrode" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  title3: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
+  btn_class: "btn"
+  btn_size: "btn--small"  
+  btn_label: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-climbing-ankle-prosthesis" 
-  # btn_class: "btn"
-  # btn_size: "btn--small"
-  title3: "Neurally-controlled Rock Climbing Ankle Prosthesis"
+  url: "/docs/research/research-climbing-ankle-prosthesis" 
+  btn_class: "btn"
+  btn_size: "btn--small"
+  btn_label: "Neurally-controlled Rock Climbing Ankle Prosthesis"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-magnetomicrometry" 
-  # btn_class: "btn"
-  # btn_size: "btn--small"
-  title3: "Magnetomicrometry"
+  url: "/docs/research/research-magnetomicrometry" 
+  btn_class: "btn"
+  btn_size: "btn--small"
+  btn_label: "Magnetomicrometry"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-tools-for-animal-physiology" 
-  # btn_class: "btn"
-  # btn_size: "btn--small"
-  title3: "Tools for Animal Physiology"
+  url: "/docs/research/research-tools-for-animal-physiology"
+  btn_class: "btn"
+  btn_size: "btn--small"
+  btn_label: "Tools for Animal Physiology"
   # btn_color: "black"
 
 
