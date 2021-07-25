@@ -20,7 +20,7 @@ main:
         url: /docs/research/research-tools-for-animal-physiology
 
   - title: "Other Works"
-    url: /docs/otherworks-main/
+    url: /docs/otherworks/
     children:
       - title: "Embedded EMG System for Human Applications"
         url: /docs/research/research-embedded-emg

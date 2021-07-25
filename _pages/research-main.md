@@ -13,7 +13,7 @@ header:
 intro: 
   - excerpt: 'Research intro?'
   
-feature_row:
+feature_row_research:
 - image_path: /assets/images/test.jpg
   # image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
   # title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
@@ -59,7 +59,9 @@ feature_row:
 
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row %}
+
+{% include feature_row id ="feature_row_research" %}
+
 <!-- {% include feature_row id="feature_row1" type="left" %} -->
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
