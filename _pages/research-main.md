@@ -49,7 +49,6 @@ feature_row1:
 - image_path: /assets/images/test.jpg
   alt: "customizable4"
   excerpt: "Description for this project"
-
   url: "/docs/research/research-magnetomicrometry" 
   btn_class: "btn"
   btn_size: "btn--small"
