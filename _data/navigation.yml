@@ -1,6 +1,8 @@
 # main links
 main:
-
+  - title: "About"
+    url: /
+    
   - title: "Ph.D Research"
     url: /docs/research/
     children:
