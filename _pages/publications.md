@@ -35,7 +35,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 * J. Lee, **S. H. Yeon**, and S. Cho, "All electrical and real-time ECG, respiration, airflow, and skin conductance monitoring system," Proc. International SoC Design Conference (ISOCC), 2015, pp. 111-112. \[[link](https://ieeexplore.ieee.org/document/7401671)\]
   
 
-<sub><sub>#</sup> Equally contributed.</sup> 
+<sup><sup>#</sup> Equally contributed.</sup> 
 
 ## Patents
 
