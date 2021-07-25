@@ -15,6 +15,7 @@ intro:
   
 feature_row_research:
 - image_path: /assets/images/test.jpg
+  image_url: "/docs/research/research-embedded-emg" 
   # image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
   # title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
   # excerpt: "Description for this project"
