@@ -24,8 +24,26 @@ main:
   - title: "Other Works"
     url: /docs/otherworks/
     children:
-      - title: "Embedded EMG System for Human Applications"
-        url: /docs/research/research-embedded-emg
+      - title: "[HMC] Whole-body Lower Exoskseleton"
+        url: /docs/otherworks/otherworks-hmc-internship
+
+      - title: "[NAVERLABS] Mobile Robot Platform TTBOT"
+        url: /docs/otherworks/otherworks-naverlabs-internship
+
+      - title: "[GT] Feel the Foot System"
+        url: /docs/otherworks/otherworks-gt-feelthefoot
+
+      - title: "[GT] NPP"
+        url: /docs/otherworks/otherworks-gt-npp
+
+      - title: "[GT] Senior Design Project"
+        url: /docs/otherworks/otherworks-gt-seniordesign  
+
+      - title: "[KAIST] Sleep Apnea Detection System"
+        url: /docs/otherworks/otherworks-kaist-sleepapnea
+
+      - title: "[KAIST] Capcitance based Pedometer"
+        url: /docs/otherworks/otherworks-kaist-pedometer
 
   - title: "Publications"
     url: /docs/publication/
