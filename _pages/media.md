@@ -7,7 +7,7 @@ classes: wide
 ---
 
 Engineering Stories - MOS
-<p><video id="scenario-1" class="video-js vjs-default-skin vjs-big-play-centered" controls
+<p><video id="scenario-1" class="video-js vjs-default-skin vjs-big-play-centered" controls  allowfullscreen  overflow="hidden"
  preload="auto" width="937" height="527" data-setup='{}'>
   <source src="https://virtualexhibits.mos.org/edw-engineering-stories/videos/prosthetic-rock-climbing-ankle.mp4
 " type='video/mp4'>
