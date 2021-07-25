@@ -4,9 +4,9 @@ title: Media Coverage
 permalink: /docs/media/
 author_profile: false
 classes: wide
+---
 
-intro:
-  - excerpt: "Media Coverage with me"
+media page
 ---
 
 {% include intro}
