@@ -55,7 +55,8 @@ feature_row_georgiatech:
 
 
 {% include feature_row id="intro" type="center" %}
-
+# Internship Projects
 {% include feature_row id ="feature_row_industry" %}
 
+# Some Projects from Georgia Tech
 {% include feature_row id ="feature_row_georgiatech" %}
