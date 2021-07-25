@@ -19,7 +19,7 @@ feature_row1:
   image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
   # title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
   # excerpt: "Description for this project"
-  image_width: 100
+  width: 100
   url: "/docs/research/research-embedded-emg" 
   btn_class: "btn"
   btn_size: "btn--small"
@@ -27,7 +27,7 @@ feature_row1:
   btn_color: "black"
 - image_path: /assets/images/test.jpg
   alt: "customizable2"
-  image_width: 100
+  width: 100
   excerpt: "Description for this project"
   url: "/docs/research/research-flexible-electrode" 
   btn_class: "btn"
@@ -37,7 +37,7 @@ feature_row1:
 - image_path: /assets/images/test.jpg
   alt: "customizable3"
   excerpt: "Description for this project"
-  image_width: 100
+  width: 100
   url: "/docs/research/research-climbing-ankle-prosthesis" 
   btn_class: "btn"
   btn_size: "btn--small"
@@ -46,7 +46,7 @@ feature_row1:
 - image_path: /assets/images/test.jpg
   alt: "customizable4"
   excerpt: "Description for this project"
-  image_width: 100
+  width: 100
   url: "/docs/research/research-magnetomicrometry" 
   btn_class: "btn"
   btn_size: "btn--small"
@@ -55,7 +55,7 @@ feature_row1:
 - image_path: /assets/images/test.jpg
   alt: "customizable5"
   excerpt: "Description for this project"
-  image_width: 100
+  width: 100
   url: "/docs/research/research-tools-for-animal-physiology" 
   btn_class: "btn"
   btn_size: "btn--small"
