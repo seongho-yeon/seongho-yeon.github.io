@@ -21,7 +21,6 @@ feature_row_research:
   # title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
   # excerpt: "Description for this project"
   # url: "/docs/research/research-embedded-emg" 
-  title3: "Embedded EMG System for Human Applications"
   # excerpt: "Embedded EMG System Project"
   btn_class: "btn"
   btn_size: "btn--small"
