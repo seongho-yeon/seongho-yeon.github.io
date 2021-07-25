@@ -49,14 +49,16 @@ feature_row_georgiatech:
   btn_label: "[GT] Senior Design Project"
   btn_color: "black"
 
+
 ---
 <br />
 
 
 
 {% include feature_row id="intro" type="center" %}
-# Internship Projects
+
+Internship Projects
 {% include feature_row id ="feature_row_industry" %}
 
-# Some Projects from Georgia Tech
+Some Projects from Georgia Tech
 {% include feature_row id ="feature_row_georgiatech" %}

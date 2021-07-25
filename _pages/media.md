@@ -24,3 +24,6 @@ TED
 
 STAT Documentary
 {% include video id="y_lA1N3La38" provider="youtube" %}
+
+EBS Documentary
+{% include video id="hT_QsZxS_EE" provider="youtube" %}
