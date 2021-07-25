@@ -31,21 +31,21 @@ feature_row_research:
   image_url: "/docs/research/research-flexible-electrode" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  excerpt: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
+  title: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-climbing-ankle-prosthesis" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  excerpt: "Neurally-controlled Rock Climbing Ankle Prosthesis"
+  title2: "Neurally-controlled Rock Climbing Ankle Prosthesis"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-magnetomicrometry" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  excerpt: "Magnetomicrometry"
+  title3: "Magnetomicrometry"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
