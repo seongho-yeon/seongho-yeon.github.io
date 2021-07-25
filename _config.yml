@@ -107,9 +107,9 @@ author:
   location         : "Cambridge, MA"
   email            : #"syeon@mit.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "syeon@mit.edu"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "syeon@mit.edu"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/seongho-yeon"
