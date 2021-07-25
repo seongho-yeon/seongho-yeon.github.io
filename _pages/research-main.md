@@ -137,9 +137,9 @@ gallary_row3:
 
 {% include feature_row id ="feature_row_research2"  type="left" %}
 
-{% include galary id ="galary_row2" %}
+{% include gallary id ="gallary_row2" %}
 
-{% include galary id ="galary_row3" type="left" %}
+{% include gallary id ="gallary_row3" type="left" %}
 <!-- {% include feature_row id="feature_row1" type="left" %} -->
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
