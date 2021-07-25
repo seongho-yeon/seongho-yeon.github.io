@@ -14,41 +14,55 @@ intro:
 
 feature_row_industry:
 - image_path: /assets/images/test.jpg
+  image_url: "/docs/otherworks/otherworks-hmc-internship" 
   url: "/docs/otherworks/otherworks-hmc-internship" 
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "[HMC] Whole-body Lower Exoskseleton"
-  btn_color: "black"
   
 - image_path: /assets/images/test.jpg
+  image_url: "/docs/otherworks/otherworks-naverlabs-internship" 
   url: "/docs/otherworks/otherworks-naverlabs-internship" 
   btn_class: "btn"
   btn_size: "btn--small"
-  btn_label: "[NAVERLABS] Mobile Robot"
-  btn_color: "black"
+  btn_label: "[NAVERLABS] Mobile Robot Platform TTBOT"
 
 feature_row_georgiatech:
 - image_path: /assets/images/test.jpg
+  image_url: "/docs/otherworks/otherworks-gt-feelthefoot" 
   url: "/docs/otherworks/otherworks-gt-feelthefoot" 
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "[GT] Feel the Foot System"
-  btn_color: "black"
   
 - image_path: /assets/images/test.jpg
+  image_url: "/docs/otherworks/otherworks-gt-npp" 
   url: "/docs/otherworks/otherworks-gt-npp" 
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "[GT] NPP"
-  btn_color: "black"
 
 - image_path: /assets/images/test.jpg
+  image_url: "/docs/otherworks/otherworks-gt-seniordesign" 
   url: "/docs/otherworks/otherworks-gt-seniordesign" 
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "[GT] Senior Design Project"
-  btn_color: "black"
 
+feature_row_kaist:
+- image_path: /assets/images/test.jpg
+  image_url: "/docs/otherworks/otherworks-kaist-sleepapnea" 
+  url: "/docs/otherworks/otherworks-kaist-sleepapnea" 
+  btn_class: "btn"
+  btn_size: "btn--small"
+  btn_label: "[KAIST] Sleep Apnea Detection System"
+  
+- image_path: /assets/images/test.jpg
+  image_url: "/docs/otherworks/otherworks-kaist-pedometer" 
+  url: "/docs/otherworks/otherworks-kaist-pedometer" 
+  btn_class: "btn"
+  btn_size: "btn--small"
+  btn_label: "[KAIST] Capcitance based Pedometer"
 
 ---
 <br />
@@ -64,3 +78,6 @@ Internship Projects
 
 Some Projects from Georgia Tech
 {% include feature_row id ="feature_row_georgiatech" %}
+
+Some Projects from KAIST
+{% include feature_row id ="feature_row_kaist" %}
