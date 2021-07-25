@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Media Coverage
+title: Exhibitions
 permalink: /docs/media/
 author_profile: false
 classes: wide
