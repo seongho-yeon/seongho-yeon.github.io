@@ -20,7 +20,7 @@ feature_row_research:
   # title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
   # excerpt: "Description for this project"
   # url: "/docs/research/research-embedded-emg" 
-  image_caption: "Embedded EMG System for Human Applications"
+  excerpt: "Embedded EMG System for Human Applications"
   # excerpt: "Embedded EMG System Project"
   # btn_class: "btn"
   # btn_size: "btn--small"
@@ -31,29 +31,30 @@ feature_row_research:
   image_url: "/docs/research/research-flexible-electrode" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  image_caption: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
+  excerpt: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-climbing-ankle-prosthesis" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  title_small: "Neurally-controlled Rock Climbing Ankle Prosthesis"
+  excerpt: "Neurally-controlled Rock Climbing Ankle Prosthesis"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-magnetomicrometry" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  title_small: "Magnetomicrometry"
+  excerpt: "Magnetomicrometry"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-tools-for-animal-physiology" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  title_small: "Tools for Animal Physiology"
+  excerpt: "Tools for Animal Physiology"
   # btn_color: "black"
+
 
 feature_row_research2:
 - image_path: /assets/images/test.jpg
@@ -62,7 +63,7 @@ feature_row_research2:
   # title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
   # excerpt: "Description for this project"
   # url: "/docs/research/research-embedded-emg" 
-  image_caption: "Embedded EMG System for Human Applications"
+  excerpt: "Embedded EMG System for Human Applications"
   # excerpt: "Embedded EMG System Project"
   # btn_class: "btn"
   # btn_size: "btn--small"
@@ -73,56 +74,28 @@ feature_row_research2:
   image_url: "/docs/research/research-flexible-electrode" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  image_caption: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
+  excerpt: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-climbing-ankle-prosthesis" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  title_small: "Neurally-controlled Rock Climbing Ankle Prosthesis"
+  excerpt: "Neurally-controlled Rock Climbing Ankle Prosthesis"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-magnetomicrometry" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  title_small: "Magnetomicrometry"
+  excerpt: "Magnetomicrometry"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-tools-for-animal-physiology" 
   # btn_class: "btn"
   # btn_size: "btn--small"
-  title_small: "Tools for Animal Physiology"
-  # btn_color: "black"
-
-gallery_row2:
-- image_path: /assets/images/test.jpg
-  url: "/docs/research/research-embedded-emg" 
-  # image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
-  # title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
-  # excerpt: "Description for this project"
-  # url: "/docs/research/research-embedded-emg" 
-  caption: "Embedded EMG System for Human Applications"
-  # excerpt: "Embedded EMG System Project"
-  # btn_class: "btn"
-  # btn_size: "btn--small"
-  # btn_label: "Embedded EMG System for Human Applications"
-  # btn_color: "black"
-
-gallery_row3:
-- image_path: /assets/images/test.jpg
-  url: "/docs/research/research-embedded-emg" 
-  # image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
-  # title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
-  # excerpt: "Description for this project"
-  # url: "/docs/research/research-embedded-emg" 
-  caption: "Embedded EMG System for Human Applications3"
-  # excerpt: "Embedded EMG System Project"
-  # btn_class: "btn"
-  # btn_size: "btn--small"
-  # btn_label: "Embedded EMG System for Human Applications"
+  excerpt: "Tools for Animal Physiology"
   # btn_color: "black"
 
 ---
