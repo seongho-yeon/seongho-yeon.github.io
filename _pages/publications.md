@@ -14,10 +14,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * **S. H. Yeon**, T. Shu, H. Song, T. H. Hsieh, J. Qiao, E. A. Rogers. S. G. Arango, E. Israel, L. E. Freed, and H. M. Herr, "Acquisition of Surface EMG Using Flexible and Low-Profile Electrodes for Lower Extremity Neuroprosthetic Control," IEEE Transactions on Medical Robotics and Bionics (**TMRB**), 2021. Accepted. To be published. \[[early access link](https://ieeexplore.ieee.org/document/9492302)\]
 
-
 * E. Rogers, M. Carney, **S. H. Yeon**, T. Clites, D. Solav, and H. Herr, "An Ankle-Foot Prosthesis for Rock Climbing Augmentation," IEEE Transactions on Neural Systems & Rehabilitation Engineering (**TNRSE**),Feb. 2021, vol.29, pp. 41-51. \[[link](https://ieeexplore.ieee.org/document/9238012)\]
 
+---
+
 ## Conference Publications
+
 * **S. H. Yeon** and H. M. Herr, "Rejecting Impulse Artifacts from Surface EMG Signals using Real-time Cumulative Histogram Filtering," 2021 Annual International Conference of the IEEE Engineering in Medicineand Biology (**EMBC**), Nov. 2021. Accepted. To Appear. \[[preprint-add-later]()\]
 
 * **S. H. Yeon<sup>#</sup>**, H. Song<sup>#</sup>, and H. M. Herr, "Spatiotemporally Synchronized Surface EMG and UltrasonographyMeasurement Using a Flexible and Low-Profile EMG Electrode," 2021 Annual International Conference ofthe IEEE Engineering in Medicine and Biology (**EMBC**), Nov. 2021.Accepted. To Appear. \[[preprint-add-later]()\]
@@ -35,6 +37,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   
 
 <sup><sup>#</sup> Equally contributed.</sup> 
+
+---
 
 ## Patents
 

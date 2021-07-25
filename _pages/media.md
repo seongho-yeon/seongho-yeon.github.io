@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ###  Engineering Design Workshop @ MOS, Boston
-"Engineering Stories", Engineering Design Workshop, Permanent Exhibition of Museum of Science, Boston,Presenting engineering stories with neurally controlled rock climbing ankle prosthesis system. [Virtual exhibition access](https://virtualexhibits.mos.org/edw-engineering-stories/).
+"Engineering Stories", Engineering Design Workshop, Permanent Exhibition of Museum of Science, Boston,Presenting engineering stories with neurally controlled rock climbing ankle prosthesis system. \[[Virtual exhibition link](https://virtualexhibits.mos.org/edw-engineering-stories/)\].
 {% include video_raw src ="https://virtualexhibits.mos.org/edw-engineering-stories/videos/prosthetic-rock-climbing-ankle.mp4" %}
 
 ---
