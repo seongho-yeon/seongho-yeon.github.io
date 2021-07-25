@@ -4,8 +4,12 @@ title: Media Coverage
 permalink: /docs/media/
 author_profile: false
 classes: wide
+
+intro:
+  - excerpt: "Media Coverage with me"
 ---
 
+{% include intro}
 Engineering Stories - MOS
 {% include video_raw src ="https://virtualexhibits.mos.org/edw-engineering-stories/videos/prosthetic-rock-climbing-ankle.mp4" %}
 
