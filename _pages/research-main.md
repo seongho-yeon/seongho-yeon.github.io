@@ -13,7 +13,7 @@ header:
 intro: 
   - excerpt: 'Research intro?'
   
-feature_row1:
+feature_row:
 - image_path: /assets/images/test.jpg
   alt: "placeholder image 1"
   image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
@@ -70,7 +70,7 @@ feature_row1:
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 {% include feature_row %}
-{% include feature_row id="feature_row1" type="left" %}
+<!-- {% include feature_row id="feature_row1" type="left" %} -->
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
 
