@@ -20,10 +20,12 @@ feature_row_research:
   # title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
   # excerpt: "Description for this project"
   url: "/docs/research/research-embedded-emg" 
-  btn_class: "btn"
-  btn_size: "btn--small"
-  btn_label: "Embedded EMG System for Human Applications"
-  btn_color: "black"
+  title: "Embedded EMG System for Human Applications"
+  excerpt: "Embedded EMG System Project"
+  # btn_class: "btn"
+  # btn_size: "btn--small"
+  # btn_label: "Embedded EMG System for Human Applications"
+  # btn_color: "black"
   
 - image_path: /assets/images/test.jpg
   url: "/docs/research/research-flexible-electrode" 
