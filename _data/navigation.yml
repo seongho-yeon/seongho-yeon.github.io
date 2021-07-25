@@ -28,5 +28,8 @@ main:
   - title: "Publications"
     url: /docs/publication/
 
+  - title: "Media Coverage"
+    url: /docs/media/
+
   - title: "Contact"
     url: /docs/contact
