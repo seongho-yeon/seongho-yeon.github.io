@@ -97,7 +97,7 @@ feature_row_research2:
   title_small: "Tools for Animal Physiology"
   # btn_color: "black"
 
-gallary_row2:
+gallery_row2:
 - image_path: /assets/images/test.jpg
   url: "/docs/research/research-embedded-emg" 
   # image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
@@ -111,7 +111,7 @@ gallary_row2:
   # btn_label: "Embedded EMG System for Human Applications"
   # btn_color: "black"
 
-gallary_row3:
+gallery_row3:
 - image_path: /assets/images/test.jpg
   url: "/docs/research/research-embedded-emg" 
   # image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
@@ -137,9 +137,9 @@ gallary_row3:
 
 {% include feature_row id ="feature_row_research2"  type="left" %}
 
-{% include gallary id ="gallary_row2" %}
+{% include gallery id ="gallery_row2" %}
 
-{% include gallary id ="gallary_row3" type="left" %}
+{% include gallery id ="gallery_row3" type="left" %}
 <!-- {% include feature_row id="feature_row1" type="left" %} -->
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
