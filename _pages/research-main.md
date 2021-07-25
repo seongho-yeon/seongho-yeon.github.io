@@ -15,69 +15,63 @@ intro:
   
 feature_row1:
 - image_path: /assets/images/test.jpg
-  image_width: 88
   alt: "placeholder image 1"
   image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
-  title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
-  excerpt: "Description for this project"
+  # title: "A [**Embedded EMG System for Human App2**](/docs/research/research-embedded-emg)"
+  # excerpt: "Description for this project"
+  image_width: 100
   url: "/docs/research/research-embedded-emg" 
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "Embedded EMG System for Human Applications"
   btn_color: "black"
-
 - image_path: /assets/images/test.jpg
   alt: "customizable2"
-  image_width: 88
-
+  image_width: 100
   excerpt: "Description for this project"
   url: "/docs/research/research-flexible-electrode" 
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
   btn_color: "black"
-
 - image_path: /assets/images/test.jpg
   alt: "customizable3"
   excerpt: "Description for this project"
+  image_width: 100
   url: "/docs/research/research-climbing-ankle-prosthesis" 
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "Neurally-controlled Rock Climbing Ankle Prosthesis"
   btn_color: "black"
-
 - image_path: /assets/images/test.jpg
   alt: "customizable4"
   excerpt: "Description for this project"
+  image_width: 100
   url: "/docs/research/research-magnetomicrometry" 
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "Magnetomicrometry"
   btn_color: "black"
-
 - image_path: /assets/images/test.jpg
   alt: "customizable5"
   excerpt: "Description for this project"
+  image_width: 100
   url: "/docs/research/research-tools-for-animal-physiology" 
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "Tools for Animal Physiology"
   btn_color: "black"
-
-
-
 ---
 
 <!-- https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_pages/home.md -->
 <br />
 
 
-{% include feature_row id="intro" type="center" %}
 
+<!-- {% include feature_row id="intro" type="center" %} -->
+{% include feature_row %}
 {% include feature_row id="feature_row1" type="left" %}
 
-# Test Here?
-Hm?
 <!-- {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
