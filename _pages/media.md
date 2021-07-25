@@ -6,8 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-media page
----
+Media page
 
 {% include intro}
 Engineering Stories - MOS
