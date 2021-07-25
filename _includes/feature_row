@@ -28,10 +28,10 @@
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
           {% if f.title2 %}
-            <h3 class="archive__item-title">{{ f.title_small }}</h3>
+            <h3 class="archive__item-title">{{ f.title2 }}</h3>
           {% endif %}
           {% if f.title3 %}
-            <h4 class="archive__item-title">{{ f.title_small }}</h4>
+            <h4 class="archive__item-title">{{ f.title3 }}</h4>
           {% endif %}
           {% if f.excerpt %}
             <div class="archive__item-excerpt">
