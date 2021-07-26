@@ -29,7 +29,7 @@ feature_row_industry:
   btn_label: "[NAVERLABS] Mobile Robot Platform Development"
 
 feature_row_georgiatech:
-- image_path: /assets/images/test.jpg
+- image_path: /assets/images/gt-feelthefoot/feelthefoot-square0.jpg
   image_url: "/docs/otherworks/otherworks-gt-feelthefoot" 
   url: "/docs/otherworks/otherworks-gt-feelthefoot" 
   btn_class: "btn"
@@ -43,7 +43,7 @@ feature_row_georgiatech:
   btn_size: "btn--small"
   btn_label: "[GT] NPP"
 
-- image_path: /assets/images/test.jpg
+- image_path: /assets/images/robot-square.jpg
   image_url: "/docs/otherworks/otherworks-gt-seniordesign" 
   url: "/docs/otherworks/otherworks-gt-seniordesign" 
   btn_class: "btn"
