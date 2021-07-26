@@ -13,8 +13,9 @@ intro:
   - excerpt: "Other Works"
 
 feature_row_industry:
-- image_path: /assets/images/test.jpg
+- image_path: https://www.hyundainews.com/gallery/images/28785
   image_url: "/docs/otherworks/otherworks-hmc-internship" 
+  image_caption: "&copy Hyundai Motor Company"
   url: "/docs/otherworks/otherworks-hmc-internship" 
   btn_class: "btn"
   btn_size: "btn--small"
