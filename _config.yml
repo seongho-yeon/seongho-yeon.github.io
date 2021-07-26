@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Seong Ho Yeon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/myself/syeon_profile2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph. D Student @ MIT Media Lab"
   location         : "Cambridge, MA"
   email            : #"syeon@mit.edu"
