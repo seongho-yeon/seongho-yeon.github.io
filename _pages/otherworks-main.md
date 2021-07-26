@@ -13,9 +13,9 @@ intro:
   - excerpt: "Other Works"
 
 feature_row_industry:
-- image_path: https://www.hyundainews.com/gallery/images/28785
+- image_path: https://www.hyundainews.com/assets/images/thumbnail-true/28785-HyundaiWearableExoskeleton.jpg #Local : /assets/images/hmc-robotics/Large-28785-HyundaiWearableExoskeleton.jpg
   image_url: "/docs/otherworks/otherworks-hmc-internship" 
-  image_caption: "&copy Hyundai Motor Company"
+  image_caption: "(c) Hyundai Motor Company"
   url: "/docs/otherworks/otherworks-hmc-internship" 
   btn_class: "btn"
   btn_size: "btn--small"
