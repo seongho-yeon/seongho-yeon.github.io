@@ -24,25 +24,23 @@ feature_row_research:
   # excerpt: "Embedded EMG System Project"
   btn_class: "btn"
   btn_size: "btn--small"
-  btn_label: "Embedded EMG System for Human Applications"
+  btn_label: "Advanced Electromyography for Human Biomechanics and Bionics Research"
   # btn_color: "black"
-  
-- image_path: /assets/images/test.jpg
-  image_url: "/docs/research/research-flexible-electrode" 
-  url: "/docs/research/research-flexible-electrode" 
-  # btn_class: "btn"
-  # btn_size: "btn--small"
-  btn_class: "btn"
-  btn_size: "btn--small"  
-  btn_label: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
-  # btn_color: "black"
-
+# - image_path: /assets/images/test.jpg
+#   image_url: "/docs/research/research-flexible-electrode" 
+#   url: "/docs/research/research-flexible-electrode" 
+#   # btn_class: "btn"
+#   # btn_size: "btn--small"
+#   btn_class: "btn"
+#   btn_size: "btn--small"  
+#   btn_label: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
+#   # btn_color: "black"
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-climbing-ankle-prosthesis" 
-  url: "/docs/research/research-climbing-ankle-prosthesis" 
+  url: "/docs/research/research-control-bionicss" 
   btn_class: "btn"
   btn_size: "btn--small"
-  btn_label: "Neurally-controlled Rock Climbing Ankle Prosthesis"
+  btn_label: "Closed-loop Control of Bionic Devices for Human Rehabilitation and Augmentation"
   # btn_color: "black"
 
 - image_path: /assets/images/test.jpg

@@ -8,6 +8,20 @@ classes: wide
 
 ## Abstract
 
+## FOS Device
+
+- Design
+
+## Miniaturzied Digital Nerve Block Prototype
+
+Photos and maybe deisgn?
+
+## Electromyography
+
+Small EMG for animal research
+
+
+
 <!-- A paragraph <br />
 
 B paragrah <br />

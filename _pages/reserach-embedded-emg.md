@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Embedded EMG System
+title: Advanced Electromyography for Human Biomechanics and Bionics Research
 permalink: /docs/research/research-embedded-emg
 author_profile: false
 classes: wide
@@ -8,19 +8,37 @@ classes: wide
 
 ## Abstract
 
-<!-- A paragraph <br />
+Full-stack EMG work with empahsis on real-time control+ human biomechanics
 
-B paragrah <br />
+---
 
-![stack Overflow](http://lmsotfy.com/so.png) [//] # Test IMG
-![test](/assets/images/test.jpg) [//] # Test IMG -->
+## Portable, Real-time, Multi-channel, and Advanced Electromyography Embedded System
 
-<!-- ## Source Code
-## Talks and Presentations
-- [2020 BIOROB](https://www.youtube.com/watch?v=PPzxmgUo0nY)
+- emg 1 design HW photos + file
+- my thesis\
 
-## Publications
-- [Nah, Moses C., et al. "Dynamic primitives facilitate manipulating a whip." 2020 8th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics (BioRob). IEEE, 2020.](https://ieeexplore.ieee.org/document/9224399)
-- [Nah, Moses C. Dynamic primitives facilitate manipulating a whip. Master's Thesis. Massachusetts Institute of Technology, 2020.](https://dspace.mit.edu/handle/1721.1/127121)
+- emg2 design photos + file
+- firmware?
+- adaptors
 
-## Related Works  -->
+- future arxiv paper.
+- codebase for emg1
+
+---
+
+## Exploratory EMG electrode
+
+- fPCB electrode Photo
+- Biorob Paper
+- TMRB paper 
+- EMBC Ultrasound
+
+- EMG spec during walking
+
+---
+
+## EMG signal processing 
+
+- impulse artifact filtering
+- real-time control of exo + bionic prosthesis
+- EMBC paepr 

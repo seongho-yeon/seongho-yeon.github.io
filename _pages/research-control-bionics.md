@@ -1,12 +1,29 @@
 ---
 layout: single
-title: Flexible EMG Electrode for Sub-Liner Interface for Prosthesis
-permalink: /docs/research/research-flexible-electrode
+title: Closed-loop Control of Bionic Devices for Human Rehabilitation and Augmentation
+permalink: /docs/research/research-control-bionics
 author_profile: false
 classes: wide
 ---
 
 ## Abstract
+
+
+## Neurally Controlled Rock-climbing Ankle Prosthesis
+
+- some photos with emg + climbing ankle
+- climbing ankle paper
+- videos 123
+
+
+
+## Neurally Controlled Transfemorral Prosthesis 
+
+- bloomberg video
+- eOPRA project
+
+## Transtibial Control
+
 
 <!-- A paragraph <br />
 
