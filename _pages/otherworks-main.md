@@ -21,7 +21,7 @@ feature_row_industry:
   btn_size: "btn--small"
   btn_label: "[HMC] Whole-body Lower Exoskseleton"
   
-- image_path: /assets/images/naverlabs-ttbot/prj1_nl_title.jpg
+- image_path: /assets/images/naverlabs-ttbot/ttbot-square.jpg
   image_url: "/docs/otherworks/otherworks-naverlabs-internship" 
   url: "/docs/otherworks/otherworks-naverlabs-internship" 
   btn_class: "btn"
