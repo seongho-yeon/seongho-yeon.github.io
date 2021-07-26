@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Seong Ho Yeon"
-  avatar           : "/assets/images/myself/syeon_profile2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/myself/syeon_profile3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph. D Student @ MIT Media Lab"
   location         : "Cambridge, MA"
   email            : #"syeon@mit.edu"
@@ -121,7 +121,7 @@ author:
       url: "https://scholar.google.com/citations?user=HQuyvQwAAAAJ&hl=en"
     - label: "CV"
       icon: "fas fa-fw fas fa-fw fa-download"
-      url: "https://seongho-yeon.github.io/assets/files/SeongHo_Yeon_CV_july24th.pdf"
+      url: "https://seongho-yeon.github.io/assets/files/cv/SeongHo_Yeon_CV_july24th.pdf"
       
 
 
