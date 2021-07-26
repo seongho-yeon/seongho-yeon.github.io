@@ -36,14 +36,14 @@ feature_row_georgiatech:
   btn_size: "btn--small"
   btn_label: "[GT] Feel the Foot System"
   
-- image_path: /assets/images/test.jpg
-  image_url: "/docs/otherworks/otherworks-gt-npp" 
-  url: "/docs/otherworks/otherworks-gt-npp" 
-  btn_class: "btn"
-  btn_size: "btn--small"
-  btn_label: "[GT] NPP"
+# - image_path: /assets/images/test.jpg
+#   image_url: "/docs/otherworks/otherworks-gt-npp" 
+#   url: "/docs/otherworks/otherworks-gt-npp" 
+#   btn_class: "btn"
+#   btn_size: "btn--small"
+#   btn_label: "[GT] NPP"
 
-- image_path: /assets/images/robot-square.jpg
+- image_path: /assets/images/gt-seniordesign/robot-square.jpg
   image_url: "/docs/otherworks/otherworks-gt-seniordesign" 
   url: "/docs/otherworks/otherworks-gt-seniordesign" 
   btn_class: "btn"
