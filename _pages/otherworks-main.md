@@ -13,7 +13,7 @@ intro:
   - excerpt: "Other Works"
 
 feature_row_industry:
-- image_path: /assets/images/hmc-robotics/Large-28785-HyundaiWearableExoskeleton.jpg # https://www.hyundainews.com/assets/images/thumbnail-true/28785-HyundaiWearableExoskeleton.jpg #Local : 
+- image_path: /assets/images/hmc-robotics/hmex2-square.jpg # https://www.hyundainews.com/assets/images/thumbnail-true/28785-HyundaiWearableExoskeleton.jpg 
   image_url: "/docs/otherworks/otherworks-hmc-internship" 
   image_caption: "(c) Hyundai Motor Company"
   url: "/docs/otherworks/otherworks-hmc-internship" 
@@ -21,7 +21,7 @@ feature_row_industry:
   btn_size: "btn--small"
   btn_label: "[HMC] Whole-body Lower Exoskseleton"
   
-- image_path: /assets/images/naver-ttbot/overview_component_tagging.jpg
+- image_path: /assets/images/naverlabs-ttbot/prj1_nl_title.jpg
   image_url: "/docs/otherworks/otherworks-naverlabs-internship" 
   url: "/docs/otherworks/otherworks-naverlabs-internship" 
   btn_class: "btn"
