@@ -20,12 +20,12 @@ feature_row_industry:
   btn_size: "btn--small"
   btn_label: "[HMC] Whole-body Lower Exoskseleton"
   
-- image_path: /assets/images/test.jpg
+- image_path: /assets/images/naver-ttbot/overview_component_tagging.jpg
   image_url: "/docs/otherworks/otherworks-naverlabs-internship" 
   url: "/docs/otherworks/otherworks-naverlabs-internship" 
   btn_class: "btn"
   btn_size: "btn--small"
-  btn_label: "[NAVERLABS] Mobile Robot Platform TTBOT"
+  btn_label: "[NAVERLABS] Mobile Robot Platform Development"
 
 feature_row_georgiatech:
 - image_path: /assets/images/test.jpg

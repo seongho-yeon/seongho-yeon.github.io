@@ -37,7 +37,7 @@ feature_row_research:
 #   # btn_color: "black"
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-control-bionics" 
-  url: "/docs/research/research-control-bionicss" 
+  url: "/docs/research/research-control-bionics" 
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "Closed-loop Control of Bionic Devices for Human Rehabilitation and Augmentation"

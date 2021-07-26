@@ -1,6 +1,6 @@
 ---
 layout: single
-title: \[HMC\] Whole-body Lower Exoskseleton
+title: \[Hyundai Motor Company\] Control of Dynamic Robot
 permalink: /docs/otherworks/otherworks-hmc-internship
 author_profile: false
 classes: wide
