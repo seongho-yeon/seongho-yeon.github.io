@@ -13,6 +13,7 @@ Abstract for Animal physiology tool
 ## FOS Device
 
 - Design
+[System Diagram](https://dam-prod.media.mit.edu/thumb/2020/10/21/ML_Update_2qFZRz9.png.1400x1400.png)
 
 ## Miniaturzied Digital Nerve Block Prototype
 

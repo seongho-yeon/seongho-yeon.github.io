@@ -14,7 +14,7 @@ intro:
   - excerpt: 'Research intro?'
   
 feature_row_research:
-- image_path: /assets/images/test.jpg
+- image_path: /assets/images/research-emg/emg-socket-square.jpg
   image_url: "/docs/research/research-embedded-emg" 
   url: "/docs/research/research-embedded-emg" 
   # image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
@@ -35,6 +35,7 @@ feature_row_research:
 #   btn_size: "btn--small"  
 #   btn_label: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
 #   # btn_color: "black"
+
 - image_path: /assets/images/test.jpg
   image_url: "/docs/research/research-control-bionics" 
   url: "/docs/research/research-control-bionics" 
@@ -43,7 +44,7 @@ feature_row_research:
   btn_label: "Closed-loop Control of Bionic Devices for Human Rehabilitation and Augmentation"
   # btn_color: "black"
 
-- image_path: /assets/images/test.jpg
+- image_path: /assets/images/research-magnet/magnetomicrometry-concept-square.png
   image_url: "/docs/research/research-magnetomicrometry" 
   url: "/docs/research/research-magnetomicrometry" 
   btn_class: "btn"
