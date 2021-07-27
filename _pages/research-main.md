@@ -14,7 +14,7 @@ intro:
   - excerpt: 'Research intro?'
   
 feature_row_research:
-- image_path: /assets/images/research-emg/emg-socket-square.jpg
+- image_path: /assets/images/research-emg/emg-socket-square.png
   image_url: "/docs/research/research-embedded-emg" 
   url: "/docs/research/research-embedded-emg" 
   # image_caption: "A [**works?**](/docs/research/research-embedded-emg)"
