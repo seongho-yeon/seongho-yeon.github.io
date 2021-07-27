@@ -36,7 +36,7 @@ feature_row_research:
 #   btn_label: "Flexible EMG Electrode for Sub-Liner Interface for Prosthesis"
 #   # btn_color: "black"
 
-- image_path: /assets/images/research-robotics/climbing-ankle-example-square.png
+- image_path: /assets/images/research-robotics/robin-2dof-square.jpg
   image_url: "/docs/research/research-control-bionics" 
   url: "/docs/research/research-control-bionics" 
   btn_class: "btn"
