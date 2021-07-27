@@ -44,7 +44,7 @@ feature_row_research:
   btn_label: "Closed-loop Control of Bionic Devices for Human Rehabilitation and Augmentation"
   # btn_color: "black"
 
-- image_path: /assets/images/research-magnet/magnetomicrometry-concept-square.png
+- image_path: /assets/images/research-magnet/mm-concept-square.png
   image_url: "/docs/research/research-magnetomicrometry" 
   url: "/docs/research/research-magnetomicrometry" 
   btn_class: "btn"
