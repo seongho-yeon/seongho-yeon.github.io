@@ -15,22 +15,6 @@ gallery_emg1:
 - url:  /assets/images/research-emg/hw_summary.png
     image_path: /assets/images/research-emg/hw_summary.png
     title: "EMG hw summary "
-
-# gallery_emg1_spec:
-#     caption: "Test-allcaption"
-
-#   - url:  /assets/images/research-emg/afe-architecture.PNG
-#     image_path: /assets/images/research-emg/afe-architecture.PNG
-#     title: "AFE Architecture"
-#     image_caption: "AFE"
-#   - url:  /assets/images/research-emg/system-pfd.PNG
-#     image_path: /assets/images/research-emg/system-pfd.PNG
-#     title: "System Power Flow Diagrem"
-#     image_caption: "System PFD"
-#     - url:  /assets/images/research-emg/memory-buffering.PNG
-#     image_path: /assets/images/research-emg/memory-buffering.PNG
-#     title: "Memory Buffering"
-#     image_caption: "Memory Buffering"
 ---
 
 ## Abstract
