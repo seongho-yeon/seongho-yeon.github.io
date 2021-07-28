@@ -17,7 +17,7 @@ classes: wide
 Full-stack EMG work with empahsis on real-time control+ human biomechanics
 
 
-<br />
+<br/><br/>
 
 
 ---
