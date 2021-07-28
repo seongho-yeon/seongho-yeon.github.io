@@ -24,6 +24,9 @@
           <img src="{{ img.image_path | relative_url }}"
                alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       </a>
+        {% if img.image_caption %}
+          <span class="archive__item-caption">{{ img.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+        {% endif %}
     {% else %}
       <img src="{{ img.image_path | relative_url }}"
            alt="{% if img.alt %}{{ img.alt }}{% endif %}">
