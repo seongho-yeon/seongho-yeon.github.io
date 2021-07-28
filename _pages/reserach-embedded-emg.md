@@ -6,13 +6,13 @@ author_profile: false
 classes: wide
 
 gallery_emg1:
-  - url:  /assets/images/research-emg/emg1_board_top.jpg
+- url:  /assets/images/research-emg/emg1_board_top.jpg
     image_path: /assets/images/research-emg/emg1_board_top.jpg
-    title: "EMG Board Top Title"
-  - url:  /assets/images/research-emg/emg1_board_bot.jpg
+    title: "EMG Board Top Title"s
+- url:  /assets/images/research-emg/emg1_board_bot.jpg
     image_path: /assets/images/research-emg/emg1_board_bot.jpg
     title: "EMG Board Bottom Title"
-    - url:  /assets/images/research-emg/hw_summary.png
+- url:  /assets/images/research-emg/hw_summary.png
     image_path: /assets/images/research-emg/hw_summary.png
     title: "EMG hw summary "
 
@@ -41,7 +41,7 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 
 ## Portable, Real-time, Multi-channel, and Advanced Electromyography Embedded System
 
-{% include gallery id="gallery_emg1" caption="This is a gallery of EMG1." %}
+<!-- {% include gallery id="gallery_emg1" caption="This is a gallery of EMG1." %} -->
 
 <!-- {% include gallery id="gallery_emg1_spec" layout="half" caption="This is a half gallery of EMG1 ." %} -->
 
