@@ -12,6 +12,7 @@ classes: wide
 <figure class="align-left">
   <img  src="/assets/images/research-emg/emg-socket-square.png"  width='200'/>
 </figure> 
+
 Full-stack EMG work with empahsis on real-time control+ human biomechanics
 ABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDA
 
@@ -24,10 +25,10 @@ ABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSA
 v1
 <div class="row">
   <div class="column">
-    <img src="/assets/images/research-emg/system-diagram.PNG"  style="width:150">
+    <img src="/assets/images/research-emg/system-diagram.PNG"  width='150'>
   </div>
   <div class="column">
-    <img src="/assets/images/research-emg/hw_summary.jpg"  style="width:150">
+    <img src="/assets/images/research-emg/hw_summary.jpg"  width='150'>
   </div>
 </div>
 Test
