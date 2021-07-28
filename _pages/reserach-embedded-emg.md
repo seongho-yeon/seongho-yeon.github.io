@@ -5,7 +5,17 @@ permalink: /docs/research/research-embedded-emg
 author_profile: false
 classes: wide
 
-
+gallery_emg1:
+  - url:  /assets/images/research-emg/emg1_board_top.png
+    image_path: /assets/images/research-emg/emg1_board_top.png
+    alt: "emg1_board_top"
+    title: "EMG Board Top Title"
+    caption: "EMG Board Top Caption"
+  - url:  /assets/images/research-emg/emg1_board_bot.png
+    image_path: /assets/images/research-emg/emg1_board_bot.png
+    alt: "emg1_board_bot"
+    title: "EMG Board Bottom Title"
+    caption: "EMG Board Bottom Caption"
 ---
 
 ## Abstract
@@ -15,6 +25,7 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 ---
 
 ## Portable, Real-time, Multi-channel, and Advanced Electromyography Embedded System
+
 
 - emg 1 design HW photos + file
 
