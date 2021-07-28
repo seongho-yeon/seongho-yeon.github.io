@@ -30,7 +30,8 @@ gallery_emg2:
 
 ## Abstract
 
-<img align="left" width="200" height="200" src="/assets/images/research-emg/emg-socket-square.png">
+{% include figure image_path="/assets/images/research-emg/emg-socket-square.png" %} 
+
 Full-stack EMG work with empahsis on real-time control+ human biomechanics. ABST
 
 ---
@@ -44,7 +45,7 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics. ABST
 - emg 1 design HW photos + file
 
 
-{% include gallery2 id="gallery_emg2" caption="Some design thoughts" %}
+{% include gallery2 id="gallery_emg2" class="half" caption="Some design thoughts" %}
 
 
 \[[master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
