@@ -10,7 +10,7 @@ classes: wide
 ## Abstract
 
 <figure class="align-left">
-  <img  src="/assets/images/research-emg/emg-socket-square.jpg"  width='250'/>
+  <img  src="/assets/images/research-emg/emg-socket-square.png"  width='250'/>
 </figure> 
 Full-stack EMG work with empahsis on real-time control+ human biomechanics
 
@@ -19,12 +19,21 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 ## Portable, Real-time, Multi-channel, and Advanced Electromyography Embedded System
 
 v1
-<figure  style="width: 150px" class="align-left">
+<div class="row" class="align-left">
+  <div class="column">
+    <img src="/assets/images/research-emg/system-diagram.PNG" alt="Snow" style="width:150px">
+  </div>
+  <div class="column">
+    <img src="/assets/images/research-emg/hw_summary.jpg"  style="width:150px">
+  </div>
+</div>
+
+<!-- <figure  style="width: 150px" class="align-left">
   <img  src="/assets/images/research-emg/system-diagram.PNG"/>
   <img  src="/assets/images/research-emg/hw_summary.jpg" />
   
   <figcaption>HW Summary</figcaption>
-</figure> 
+</figure>  -->
 Hardware summary
 
 
