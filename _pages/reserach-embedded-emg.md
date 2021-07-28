@@ -13,13 +13,14 @@ classes: wide
   <img  src="/assets/images/research-emg/emg-socket-square.png"  width='250'/>
 </figure> 
 Full-stack EMG work with empahsis on real-time control+ human biomechanics
+</br>
 
 ---
 
 ## Portable, Real-time, Multi-channel, and Advanced Electromyography Embedded System
 
 v1
-<div class="row" class="align-left">
+<div class="row">
   <div class="column">
     <img src="/assets/images/research-emg/system-diagram.PNG" alt="Snow" style="width:150px">
   </div>
@@ -27,7 +28,9 @@ v1
     <img src="/assets/images/research-emg/hw_summary.jpg"  style="width:150px">
   </div>
 </div>
+Test
 
+</br>
 <!-- <figure  style="width: 150px" class="align-left">
   <img  src="/assets/images/research-emg/system-diagram.PNG"/>
   <img  src="/assets/images/research-emg/hw_summary.jpg" />
