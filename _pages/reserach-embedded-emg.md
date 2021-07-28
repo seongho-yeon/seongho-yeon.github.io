@@ -27,7 +27,8 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 
 {% include gallery2 id="gallery_emg1" layout="half" caption="This is a half gallery of EMG1 ." %}
 
-{% include figure src="/assets/images/research-emg/hw_summary.jpg" caption="Test." %}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/research-emg/hw_summary.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+
 
 - emg 1 design HW photos + file
 
