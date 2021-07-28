@@ -30,7 +30,7 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 
 {% include gallery_new id="gallery_emg1" caption="This is a gallery of EMG1 ." %}
 
-{% include gallery_new id="gallery_emg1" layout="half" caption="This is a half gallery of EMG1 ." %}
+{% include gallery id="gallery_emg1" layout="half" caption="This is a half gallery of EMG1 ." %}
 
 - emg 1 design HW photos + file
 
