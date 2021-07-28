@@ -5,10 +5,6 @@ permalink: /docs/research/research-embedded-emg
 author_profile: false
 classes: wide
 
-feature_abstract:
-- image_path: /assets/images/research-emg/emg-socket-square.png
-  image_url: "/docs/research/research-embedded-emg" 
-  url: "/docs/research/research-embedded-emg" 
 
 gallery_emg1:
   - url:  /assets/images/research-emg/system-diagram.PNG
@@ -35,7 +31,6 @@ gallery_emg2:
 
 ## Abstract
 
-{% include feature_row id ="feature_abstract" %}
 
 Full-stack EMG work with empahsis on real-time control+ human biomechanics. ABST
 
@@ -50,7 +45,7 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics. ABST
 - emg 1 design HW photos + file
 
 
-{% include gallery2 id="gallery_emg2" class="half" caption="Some design thoughts" %}
+{% include gallery2 id="gallery_emg2" layout="half" caption="Some design thoughts" %}
 
 
 \[[master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
