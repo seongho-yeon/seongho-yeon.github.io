@@ -5,6 +5,11 @@ permalink: /docs/research/research-embedded-emg
 author_profile: false
 classes: wide
 
+feature_abstract:
+- image_path: /assets/images/research-emg/emg-socket-square.png
+  image_url: "/docs/research/research-embedded-emg" 
+  url: "/docs/research/research-embedded-emg" 
+
 gallery_emg1:
   - url:  /assets/images/research-emg/system-diagram.PNG
     image_path: /assets/images/research-emg/system-diagram.PNG
@@ -30,7 +35,7 @@ gallery_emg2:
 
 ## Abstract
 
-{% include figure image_path="/assets/images/research-emg/emg-socket-square.png" %} 
+{% include feature_row id ="feature_abstract" %}
 
 Full-stack EMG work with empahsis on real-time control+ human biomechanics. ABST
 
