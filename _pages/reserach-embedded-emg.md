@@ -8,13 +8,10 @@ classes: wide
 gallery_emg1:
   - url:  /assets/images/research-emg/emg1_board_top.jpg
     image_path: /assets/images/research-emg/emg1_board_top.jpg
-    alt: "emg1_board_top"
     title: "EMG Board Top Title"
     caption: "EMG Board Top Caption"
-
   - url:  /assets/images/research-emg/emg1_board_bot.jpg
     image_path: /assets/images/research-emg/emg1_board_bot.jpg
-    alt: "emg1_board_bot"
     title: "EMG Board Bottom Title"
     caption: "EMG Board Bottom Caption"
 ---
