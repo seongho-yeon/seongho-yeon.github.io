@@ -19,20 +19,35 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 ## Portable, Real-time, Multi-channel, and Advanced Electromyography Embedded System
 
 v1
-<figure class="align-left">
-  <img  src="/assets/images/research-emg/system-diagram.PNG"  width='200'/>
-  <img  src="/assets/images/research-emg/hw_summary.jpg"  width='200'/>
+<figure  style="width: 150px" class="align-left">
+  <img  src="/assets/images/research-emg/system-diagram.PNG"/>
+  <img  src="/assets/images/research-emg/hw_summary.jpg" />
+  
+  <figcaption>HW Summary</figcaption>
 </figure> 
 Hardware summary
 
-<figure class="align-center">
-  <img  src="/assets/images/research-emg/afe-architecture.jpg"  width='250'/>
-  <img  src="/assets/images/research-emg/memory-buffering.jpg"  width='250'/>
-  <img  src="/assets/images/research-emg/system-pfd.jpg"  width='250'/>
-  <img  src="/assets/images/research-emg/os-schedule-scheme.jpg"  width='250'/>
+
+<figure  style="width: 180px" class="align-center">
+  <img  src="/assets/images/research-emg/afe-architecture.PNG" />
+  <img  src="/assets/images/research-emg/memory-buffering.PNG"  />
+  <img  src="/assets/images/research-emg/system-pfd.PNG"  />
+  <img  src="/assets/images/research-emg/os-schedule-scheme.PNG"/>
+  <figcaption> Some design thoughts.</figcaption>
 </figure> 
 Some Design Thoughts
 
+
+<figure  style="width: 180px" class="align-center">
+  <img  src="/assets/images/research-emg/result_time_wet_2.png" />
+  <img  src="/assets/images/research-emg/result_psd_wet.png"  />
+
+  <img  src="/assets/images/research-emg/result_time_dry2.png" />
+  <img  src="/assets/images/research-emg/result_psd_dry.png"  />
+>
+  <figcaption> Initial Signal Characterization</figcaption>
+</figure> 
+Initial Signal Characterization
 
 
 My Master thesis \[[master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
