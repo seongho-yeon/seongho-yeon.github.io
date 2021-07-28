@@ -5,7 +5,7 @@ permalink: /docs/research/research-embedded-emg
 author_profile: false
 classes: wide
 
-gallery_emg1:
+gallery_emg1_hw:
   - url:  /assets/images/research-emg/emg1_board_top.jpg
     image_path: /assets/images/research-emg/emg1_board_top.jpg
     title: "EMG Board Top Title"
@@ -14,6 +14,24 @@ gallery_emg1:
     image_path: /assets/images/research-emg/emg1_board_bot.jpg
     title: "EMG Board Bottom Title"
     caption: "EMG Board Bottom Caption"
+    - url:  /assets/images/research-emg/hw_summary.png
+    image_path: /assets/images/research-emg/hw_summary.png
+    title: "EMG hw summary "
+    caption: "EMG Board Bottom Caption"
+
+gallery_emg1_spec:
+  - url:  /assets/images/research-emg/afe-architecture.PNG
+    image_path: /assets/images/research-emg/afe-architecture.PNG
+    title: "AFE Architecture"
+    caption: "AFE"
+  - url:  /assets/images/research-emg/system-pfd.PNG
+    image_path: /assets/images/research-emg/system-pfd.PNG
+    title: "System Power Flow Diagrem"
+    caption: "System PFD"
+    - url:  /assets/images/research-emg/memory-buffering.PNG
+    image_path: /assets/images/research-emg/memory-buffering.PNG
+    title: "Memory Buffering"
+    caption: "Memory Buffering"
 ---
 
 ## Abstract
@@ -23,6 +41,12 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 ---
 
 ## Portable, Real-time, Multi-channel, and Advanced Electromyography Embedded System
+
+<p align="center">
+  <img alt="tt" src="/assets/images/research-emg/afe-architecture.PNG" caption="Test1" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="tt2" src="/assets/images/research-emg/system-pfd.PNG" width="45%">
+</p>
 
 {% include gallery id="gallery_emg1" caption="This is a gallery of EMG1 ." %}
 
