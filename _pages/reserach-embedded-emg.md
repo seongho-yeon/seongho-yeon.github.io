@@ -5,67 +5,49 @@ permalink: /docs/research/research-embedded-emg
 author_profile: false
 classes: wide
 
+gallery_emg1:
+  - url:  /assets/images/research-emg/system-diagram.PNG
+    image_path: /assets/images/research-emg/system-diagram.PNG
+
+  - url:  /assets/images/research-emg/hw_summary.jpg
+    image_path: /assets/images/research-emg/hw_summary.jpg
+    # title: "EMG Board Summary"
+
+gallery_emg2:
+  - url:  /assets/images/research-emg/afe-architecture.PNG
+    image_path: /assets/images/research-emg/afe-architecture.PNG
+
+  - url:  /assets/images/research-emg/os-schedule-scheme.PNG
+    image_path: /assets/images/research-emg/os-schedule-scheme.PNG
+
+  - url:  /assets/images/research-emg/system-pfd.PNG
+    image_path: /assets/images/research-emg/system-pfd.PNG
+
+  - url:  /assets/images/research-emg/memory-buffering.PNG
+    image_path: /assets/images/research-emg/memory-buffering.PNG
+
 ---
 
 ## Abstract
 
-<figure class="align-left">
-  <img  src="/assets/images/research-emg/emg-socket-square.png"  width='200'/>
-</figure> 
-
-Full-stack EMG work with empahsis on real-time control+ human biomechanics
-ABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDAABSADBSABSBSDFDFDA
-
+<img align="left" width="200" height="200" src="/assets/images/research-emg/emg-socket-square.png">
+Full-stack EMG work with empahsis on real-time control+ human biomechanics. ABST
 
 ---
 
 
 ## Portable, Real-time, Multi-channel, and Advanced Electromyography Embedded System
 
-v1
-<div class="row">
-  <div class="column">
-    <img src="/assets/images/research-emg/system-diagram.PNG"  width='150'>
-  </div>
-  <div class="column">
-    <img src="/assets/images/research-emg/hw_summary.jpg"  width='150'>
-  </div>
-</div>
-Test
 
-</br>
-<!-- <figure  style="width: 150px" class="align-left">
-  <img  src="/assets/images/research-emg/system-diagram.PNG"/>
-  <img  src="/assets/images/research-emg/hw_summary.jpg" />
-  
-  <figcaption>HW Summary</figcaption>
-</figure>  -->
-Hardware summary
+{% include gallery2 id="gallery_emg1" caption="EMG System Diagram." %} 
+
+- emg 1 design HW photos + file
 
 
-<figure  style="width: 180px" class="align-center">
-  <img  src="/assets/images/research-emg/afe-architecture.PNG" />
-  <img  src="/assets/images/research-emg/memory-buffering.PNG"  />
-  <img  src="/assets/images/research-emg/system-pfd.PNG"  />
-  <img  src="/assets/images/research-emg/os-schedule-scheme.PNG"/>
-  <figcaption> Some design thoughts.</figcaption>
-</figure> 
-Some Design Thoughts
+{% include gallery2 id="gallery_emg2" caption="Some design thoughts" %}
 
 
-<figure  style="width: 180px" class="align-center">
-  <img  src="/assets/images/research-emg/result_time_wet_2.png" />
-  <img  src="/assets/images/research-emg/result_psd_wet.png"  />
-
-  <img  src="/assets/images/research-emg/result_time_dry2.png" />
-  <img  src="/assets/images/research-emg/result_psd_dry.png"  />
->
-  <figcaption> Initial Signal Characterization</figcaption>
-</figure> 
-Initial Signal Characterization
-
-
-My Master thesis \[[master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
+\[[master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
 
 
 - emg2 design photos + file
