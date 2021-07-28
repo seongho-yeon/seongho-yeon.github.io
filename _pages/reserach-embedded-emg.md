@@ -5,14 +5,13 @@ permalink: /docs/research/research-embedded-emg
 author_profile: false
 classes: wide
 
-gallery_emg1:
-  - url:  /assets/images/research-emg/emg1_board_top.jpg
-    image_path: /assets/images/research-emg/emg1_board_top.jpg
-    title: "EMG Board Top Title"
-  - url:  /assets/images/research-emg/emg1_board_bot.jpg
-    image_path: /assets/images/research-emg/emg1_board_bot.jpg
-    title: "EMG Board Bottom Title"
-
+# gallery_emg1:
+#   - url:  /assets/images/research-emg/emg1_board_top.jpg
+#     image_path: /assets/images/research-emg/emg1_board_top.jpg
+#     title: "EMG Board Top Title"
+#   - url:  /assets/images/research-emg/emg1_board_bot.jpg
+#     image_path: /assets/images/research-emg/emg1_board_bot.jpg
+#     title: "EMG Board Bottom Title"
 ---
 
 ## Abstract
@@ -30,12 +29,12 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/research-emg/hw_summary.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
 
 
-<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Angular" title="Angular" hspace="20" width='30%'/>
-<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Bootstrap" title="Bootstrap" hspace="20" width='30%'/>
-<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Developed using Browsersync" title="Browsersync" width='30%'/>
+<img  src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Angular" title="Angular" hspace="20" width='30%'/>
+<img src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Bootstrap" title="Bootstrap" hspace="20" width='30%'/>
+<img  src="/assets/images/research-emg/hw_summary.jpg" alt="Developed using Browsersync" title="Browsersync" width='30%'/>
 <br/><br/><br/><br/><br/>
 
-
+<!-- <img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Developed using Browsersync" title="Browsersync" width='30%'/> -->
 - emg 1 design HW photos + file
 
 \[[master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
