@@ -28,12 +28,12 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 {% include gallery2 id="gallery_emg1" layout="half" caption="This is a half gallery of EMG1 ." %}
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/research-emg/hw_summary.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
-<figure style="width: 150px" class="align-left">
-    <img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Angular" title="Angular" hspace="20"/>
-    <img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
-    <img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
-    <br/><br/><br/><br/><br/>
-</figure> 
+
+<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Angular" title="Angular" hspace="20" width='180'/>
+<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Bootstrap" title="Bootstrap" hspace="20" width='180'/>
+<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Developed using Browsersync" title="Browsersync" hspace="20" width='180'/>
+<br/><br/><br/><br/><br/>
+
 - emg 1 design HW photos + file
 
 \[[master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
