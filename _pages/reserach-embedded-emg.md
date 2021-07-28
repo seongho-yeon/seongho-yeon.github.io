@@ -27,6 +27,8 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 
 {% include gallery2 id="gallery_emg1" layout="half" caption="This is a half gallery of EMG1 ." %}
 
+{% include figure src="/assets/images/research-emg/hw_summary.jpg" caption="Test." %}
+
 - emg 1 design HW photos + file
 
 \[[master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
