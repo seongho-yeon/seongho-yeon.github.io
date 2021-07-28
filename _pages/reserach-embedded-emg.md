@@ -5,52 +5,37 @@ permalink: /docs/research/research-embedded-emg
 author_profile: false
 classes: wide
 
-gallery_emg1:
-  - url:  /assets/images/research-emg/emg1_board_top.jpg
-    image_path: /assets/images/research-emg/emg1_board_top.jpg
-    # title: "EMG Board Top Title"
-  - url:  /assets/images/research-emg/emg1_board_bot.jpg
-    image_path: /assets/images/research-emg/emg1_board_bot.jpg
-    # title: "EMG Board Bottom Title"
-  - url:  /assets/images/research-emg/hw_summary.jpg
-    image_path: /assets/images/research-emg/hw_summary.jpg
-    # title: "EMG Board Summary"
-
-
 ---
 
 ## Abstract
 
+<figure class="align-left">
+  <img  src="/assets/images/research-emg/emg-socket-square.jpg"  width='250'/>
+</figure> 
 Full-stack EMG work with empahsis on real-time control+ human biomechanics
-<!-- {% include gallery2 id="gallery_emg1" caption="This is a gallery of EMG1 ." %}
 
-{% include gallery2 id="gallery_emg1" layout="half" caption="This is a half gallery of EMG1 ." %} -->
 ---
 
 ## Portable, Real-time, Multi-channel, and Advanced Electromyography Embedded System
 
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/research-emg/hw_summary.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
-
-<!-- EMG 1 -->
-<figure class="align-center">
-  <img  src="/assets/images/research-emg/emg1_board_top.jpg" width='150px'/>
-  <img src="/assets/images/research-emg/emg1_board_bot.jpg" width='150px'/>
-  <img  src="/assets/images/research-emg/hw_summary.jpg"  width='150px'/>
-<!-- <br/><br/><br/><br/><br/> -->
+v1
+<figure class="align-left">
+  <img  src="/assets/images/research-emg/system-diagram.PNG"  width='200'/>
+  <img  src="/assets/images/research-emg/hw_summary.jpg"  width='200'/>
 </figure> 
-<!-- <img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Developed using Browsersync" title="Browsersync" hspace="20" width='30%'/> -->
-- emg 1 design HW photos + file
+Hardware summary
 
-<!-- EMG 1 -->
-<img  src="/assets/images/research-emg/afe-architecture.PNG" url="/assets/images/research-emg/afe-architecture.PNG" width='48%'/>
-<img src="/assets/images/research-emg/os-schedule-scheme.PNG" width = '48%'/>
-<img  src="/assets/images/research-emg/memory-buffering.PNG"  width='48%'/>
-<img  src="/assets/images/research-emg/system-pfd.PNG"  width='48%'/>
-<br/><br/><br/><br/><br/>
+<figure class="align-center">
+  <img  src="/assets/images/research-emg/afe-architecture.jpg"  width='250'/>
+  <img  src="/assets/images/research-emg/memory-buffering.jpg"  width='250'/>
+  <img  src="/assets/images/research-emg/system-pfd.jpg"  width='250'/>
+  <img  src="/assets/images/research-emg/os-schedule-scheme.jpg"  width='250'/>
+</figure> 
+Some Design Thoughts
 
 
-\[[master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
+
+My Master thesis \[[master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
 
 
 - emg2 design photos + file
