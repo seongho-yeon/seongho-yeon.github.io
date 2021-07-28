@@ -23,9 +23,7 @@
         {% if img.title %}title="{{ img.title }}"{% endif %}>
           <img src="{{ img.image_path | relative_url }}"
                alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-              <figcaption>
-                {{ img.caption | markdownify | remove: "<p>" | remove: "</p>" }}
-              </figcaption>
+
         </a>
     {% else %}
       <img src="{{ img.image_path | relative_url }}"
