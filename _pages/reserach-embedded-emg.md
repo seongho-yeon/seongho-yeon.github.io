@@ -10,16 +10,20 @@ gallery_emg1_hw:
     image_path: /assets/images/research-emg/emg1_board_top.jpg
     title: "EMG Board Top Title"
     image_caption: "EMG Board Top Caption"
+
   - url:  /assets/images/research-emg/emg1_board_bot.jpg
     image_path: /assets/images/research-emg/emg1_board_bot.jpg
     title: "EMG Board Bottom Title"
     image_caption: "EMG Board Bottom Caption"
+
     - url:  /assets/images/research-emg/hw_summary.png
     image_path: /assets/images/research-emg/hw_summary.png
     title: "EMG hw summary "
     image_caption: "EMG Board Bottom Caption"
 
 gallery_emg1_spec:
+    caption: "Test-allcaption"
+
   - url:  /assets/images/research-emg/afe-architecture.PNG
     image_path: /assets/images/research-emg/afe-architecture.PNG
     title: "AFE Architecture"
@@ -41,12 +45,6 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 ---
 
 ## Portable, Real-time, Multi-channel, and Advanced Electromyography Embedded System
-
-<p align="center">
-  <img alt="tt" src="/assets/images/research-emg/afe-architecture.PNG" caption="Test1" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="tt2" src="/assets/images/research-emg/system-pfd.PNG" width="45%">
-</p>
 
 {% include gallery id="gallery_emg1_hw" caption="This is a gallery of EMG1 ." %}
 
