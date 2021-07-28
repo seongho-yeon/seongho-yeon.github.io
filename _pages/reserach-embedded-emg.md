@@ -34,9 +34,9 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 
 <!-- EMG 1 -->
 <figure class="align-center">
-<img  src="/assets/images/research-emg/emg1_board_top.jpg" width='150px'/>
-<img src="/assets/images/research-emg/emg1_board_bot.jpg" width='150px'/>
-<img  src="/assets/images/research-emg/hw_summary.jpg"  width='150px'/>
+  <img  src="/assets/images/research-emg/emg1_board_top.jpg" width='150px'/>
+  <img src="/assets/images/research-emg/emg1_board_bot.jpg" width='150px'/>
+  <img  src="/assets/images/research-emg/hw_summary.jpg"  width='150px'/>
 <!-- <br/><br/><br/><br/><br/> -->
 </figure> 
 <!-- <img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Developed using Browsersync" title="Browsersync" hspace="20" width='30%'/> -->
