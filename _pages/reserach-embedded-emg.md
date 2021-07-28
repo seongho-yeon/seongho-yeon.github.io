@@ -29,9 +29,9 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/research-emg/hw_summary.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
 
-<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Angular" title="Angular" hspace="20" width='180'/>
-<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Bootstrap" title="Bootstrap" hspace="20" width='180'/>
-<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Developed using Browsersync" title="Browsersync" hspace="20" width='180'/>
+<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Angular" title="Angular" hspace="20" width='30%'/>
+<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Made with Bootstrap" title="Bootstrap" hspace="20" width='30%'/>
+<img align="left" src="/assets/images/research-emg/hw_summary.jpg" alt="Developed using Browsersync" title="Browsersync" hspace="20" width='30%'/>
 <br/><br/><br/><br/><br/>
 
 - emg 1 design HW photos + file
