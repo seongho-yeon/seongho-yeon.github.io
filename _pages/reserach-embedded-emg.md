@@ -34,9 +34,7 @@ gallery_emg2:
 
 ## Abstract
 
-{% include gallery2 id="gallery_emgabstract" layout="third"  caption="EMG Abstract" %} 
-
-Full-stack EMG work with empahsis on real-time control+ human biomechanics. ABST
+{% include gallery2 id="gallery_emgabstract" layout="third" %} Full-stack EMG work with empahsis on real-time control+ human biomechanics. ABST
 
 ---
 
