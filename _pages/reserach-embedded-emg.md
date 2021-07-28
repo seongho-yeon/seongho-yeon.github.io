@@ -12,10 +12,16 @@ classes: wide
 <figure class="align-left">
   <img  src="/assets/images/research-emg/emg-socket-square.png"  width='250'/>
 </figure> 
+
+
 Full-stack EMG work with empahsis on real-time control+ human biomechanics
-</br>
+
+
+<br />
+
 
 ---
+
 
 ## Portable, Real-time, Multi-channel, and Advanced Electromyography Embedded System
 
