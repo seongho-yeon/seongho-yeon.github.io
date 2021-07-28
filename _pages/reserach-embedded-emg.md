@@ -21,21 +21,21 @@ gallery_emg1_hw:
     title: "EMG hw summary "
     image_caption: "EMG Board Bottom Caption"
 
-gallery_emg1_spec:
-    caption: "Test-allcaption"
+# gallery_emg1_spec:
+#     caption: "Test-allcaption"
 
-  - url:  /assets/images/research-emg/afe-architecture.PNG
-    image_path: /assets/images/research-emg/afe-architecture.PNG
-    title: "AFE Architecture"
-    image_caption: "AFE"
-  - url:  /assets/images/research-emg/system-pfd.PNG
-    image_path: /assets/images/research-emg/system-pfd.PNG
-    title: "System Power Flow Diagrem"
-    image_caption: "System PFD"
-    - url:  /assets/images/research-emg/memory-buffering.PNG
-    image_path: /assets/images/research-emg/memory-buffering.PNG
-    title: "Memory Buffering"
-    image_caption: "Memory Buffering"
+#   - url:  /assets/images/research-emg/afe-architecture.PNG
+#     image_path: /assets/images/research-emg/afe-architecture.PNG
+#     title: "AFE Architecture"
+#     image_caption: "AFE"
+#   - url:  /assets/images/research-emg/system-pfd.PNG
+#     image_path: /assets/images/research-emg/system-pfd.PNG
+#     title: "System Power Flow Diagrem"
+#     image_caption: "System PFD"
+#     - url:  /assets/images/research-emg/memory-buffering.PNG
+#     image_path: /assets/images/research-emg/memory-buffering.PNG
+#     title: "Memory Buffering"
+#     image_caption: "Memory Buffering"
 ---
 
 ## Abstract
@@ -48,7 +48,7 @@ Full-stack EMG work with empahsis on real-time control+ human biomechanics
 
 {% include gallery id="gallery_emg1_hw" caption="This is a gallery of EMG1 ." %}
 
-{% include gallery id="gallery_emg1_spec" layout="half" caption="This is a half gallery of EMG1 ." %}
+<!-- {% include gallery id="gallery_emg1_spec" layout="half" caption="This is a half gallery of EMG1 ." %} -->
 
 - emg 1 design HW photos + file
 
