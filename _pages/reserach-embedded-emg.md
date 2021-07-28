@@ -14,6 +14,10 @@ gallery_emg1:
     image_path: /assets/images/research-emg/emg1_board_bot.jpg
     title: "EMG Board Bottom Title"
     caption: "EMG Board Bottom Caption"
+- url:  /assets/images/research-emg/hw_summary.png
+    image_path: /assets/images/research-emg/hw_summary.png
+    title: "HW-Summary"
+    image_caption: "hw-summary"
 ---
 
 ## Abstract
