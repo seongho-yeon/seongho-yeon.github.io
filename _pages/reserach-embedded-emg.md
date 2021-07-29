@@ -205,6 +205,16 @@ Flexible electrode ABST
 Flexible electrode ABST
 
 
+Flexible electrode ABST
+
+Flexible electrode ABST
+
+Flexible electrode ABST
+
+Flexible electrode ABST
+
+Flexible electrode ABST
+
 {% include gallery2 id="gallery_SLIP_demo" layout="third" caption="flexElec demo" %}
 
 DEMONSTRATION WITH PROSTHESIS
