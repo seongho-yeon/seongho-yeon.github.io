@@ -170,6 +170,7 @@ OS SCHEDULING
 
 <figure style="width: 500px" class="align-left">
   <a href="/assets/images/research-emg/memory-buffering.PNG"><img src="/assets/images/research-emg/memory-buffering.PNG"></a>
+
   <figcaption>Test caption emg-socket-square</figcaption>
 </figure> 
 
@@ -370,6 +371,27 @@ DEMONSTRATION WITH PROSTHESIS
 Ultrasound demo
 {% include gallery2 id="gallery_US_demo" layout="half" caption="flexElec demo" %}
 
+
+TEST diff config
+
+<figure style="width: 400px" class="align-left">
+  <a href="/assets/images/research-emg/exp-setup-human2.png"><img src="/assets/images/research-emg/exp-setup-human2.png"></a>
+  <figcaption> US test 1</figcaption>
+</figure> 
+
+<figure style="width: 400px" class="align-left">
+  <a href="/assets/images/research-emg/us-emg-probe.PNG"><img src="/assets/images/research-emg/us-emg-probe.PNG"></a>
+  <figcaption> US test 1</figcaption>
+</figure> 
+
+
+DEMONSTRATION WITH US
+
+DEMONSTRATION WITH US
+
+DEMONSTRATION WITH US
+
+DEMONSTRATION WITH US
 DEMONSTRATION WITH US
 
 DEMONSTRATION WITH US
@@ -426,6 +448,7 @@ CHF Alg dev- sSIMPLE
 
 CHF Explain
 
+
 {% include gallery2 id="gallery_chf_explain" layout="half" caption="flexElec demo" %}
 
 GAP
@@ -459,6 +482,26 @@ CHF RESULT
 CHF RESULT
 
 {% include gallery2 id="gallery_chf_result1" layout="half" caption="flexElec demo" %}
+
+<figure style="width:400px" class="align-left">
+  <a href="/assets/images/research-emg/chf-exp1.png"><img src="/assets/images/research-emg/chf-exp1.png"></a>
+  <a href="/assets/images/research-emg/chf-exp2.png"><img src="/assets/images/research-emg/chf-exp2.png"></a>
+  <figcaption>TEST CHF CONFIG</figcaption>
+</figure> 
+
+GAP
+
+GAP
+
+GAP
+
+GAP
+
+GAP
+
+GAP
+
+GAP
 
 GAP
 
