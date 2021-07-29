@@ -9,13 +9,47 @@ redirect_from:
   - /about.html
 ---
 
+
+<figure style="width: 500px" class="align-left">
+  <a href="/assets/images/myself/ted2018-team.jpg"><img src="/assets/images/myself/ted2018-team.jpg"></a>
+  <figcaption> TED TEAM</figcaption>
+</figure> 
+
 Ph.D student
 MIT
-MIT media lab
-enter for extreme bionics
 
-Technical skilss]
+ABOUT
 
+ABOUT
 
-CHANGE?'
-Error?
+ABOUT
+
+ABOUT
+
+ABOUT
+
+Ph.D student
+MIT
+
+ABOUT
+
+ABOUT
+
+ABOUT
+
+ABOUT
+
+ABOUT
+
+Ph.D student
+MIT
+
+ABOUT
+
+ABOUT
+
+ABOUT
+
+ABOUT
+
+ABOUT
