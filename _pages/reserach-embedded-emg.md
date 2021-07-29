@@ -31,7 +31,7 @@ gallery_emg_verification:
   - url:  /assets/images/research-emg/result_time_wet2.png
     image_path: /assets/images/research-emg/result_time_wet2.png
 
-  - url:  /assets/images/research-emg/reset_psd_wet.png
+  - url:  /assets/images/research-emg/result_psd_wet.png
     image_path: /assets/images/research-emg/result_psd_wet.png
 
   - url:  /assets/images/research-emg/noise_psd_wet.png
@@ -294,7 +294,7 @@ US-SLIP DEMO
 
 EXP CHF CONCEPT
 
-<figure style="width: 500px" class="align-left">
+<figure style="width: 400px" class="align-left">
   <img src="/assets/images/research-emg/chf-dsp.PNG">
   <figcaption>CHF</figcaption>
 </figure> 
