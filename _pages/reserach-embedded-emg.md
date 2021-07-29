@@ -94,12 +94,19 @@ Surface electromyography (sEMG), the least invasive technique among current peri
   <img src="/assets/images/research-emg/EMG_V0_2_SocketComplex3.jpg">
   <figcaption>emg-socket-square</figcaption>
 </figure> 
+
 SOCKET COMPLEX EXP
+
 SOCKET COMPLEX EXP
+
 SOCKET COMPLEX EXP
+
 SOCKET COMPLEX EXP
+
 SOCKET COMPLEX EXP
+
 SOCKET COMPLEX EXP
+
 SOCKET COMPLEX EXP
 
 
@@ -107,37 +114,45 @@ My master thesis and design files are also available as follows:
 
 \[[MIT master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
 \[[Design files-to be added later through media lab portal]\()]
-asdsadas
-asdasd
-asd
-sad
-asd
-as
-d
 
-<br></br>
+
 
 ### version 2 - 16 channel
 
 New EMG - 
 
 More channel for more capa esp using machine learning. 
+
 <figure style="width: 450px" class="align-right">
   <img src="/assets/images/research-emg/system-diagram-exp.PNG">
   <figcaption>emg v2</figcaption>
 </figure> 
-V2 PROTOTYPE
-V2 PROTOTYPE
-V2 PROTOTYPE
-V2 PROTOTYPE
+
 V2 PROTOTYPE
 
+V2 PROTOTYPE
+
+V2 PROTOTYPE
+
+V2 PROTOTYPE
+
+V2 PROTOTYPE
+
+V2 PROTOTYPE
 
 <figure style="width: 250px" class="align-right">
   <img src="/assets/images/research-emg/system-pfd.PNG">
   <figcaption>P{FDFPFDF</figcaption>
 </figure> 
+
 Some design though - power flow diagram
+
+Some design though - power flow diagram
+
+Some design though - power flow diagram
+
+Some design though - power flow diagram
+
 - adaptors
 - future arxiv paper.
 - codebase for emg1
@@ -152,10 +167,15 @@ Related Papers:
 ## Exploratory EMG electrode
 
 Flexible electrode ABST
+
 Flexible electrode ABST
+
 Flexible electrode ABST
+
 Flexible electrode ABST
+
 Flexible electrode ABST
+
 
 <figure style="width: 400px" class="align-left">
   <img src="/assets/images/research-emg/flexible-electrode-abc.PNG">
@@ -163,20 +183,20 @@ Flexible electrode ABST
 </figure> 
 
 Flexible electrode ABST
+
 Flexible electrode ABST
+
 Flexible electrode ABST
+
 Flexible electrode ABST
+
 Flexible electrode ABST
 
 
 {% include gallery2 id="gallery_SLIP_demo" layout="third" caption="flexElec demo" %}
+
 DEMONSTRATION WITH PROSTHESIS
-DEMONSTRATION WITH PROSTHESIS
-DEMONSTRATION WITH PROSTHESIS
-DEMONSTRATION WITH PROSTHESIS
-DEMONSTRATION WITH PROSTHESIS
-DEMONSTRATION WITH PROSTHESIS
-DEMONSTRATION WITH PROSTHESIS
+
 DEMONSTRATION WITH PROSTHESIS
 
 
@@ -190,12 +210,7 @@ DEMONSTRATION WITH PROSTHESIS
 
 Ultrasound demo
 {% include gallery2 id="gallery_US_demo" layout="third" caption="flexElec demo" %}
-DEMONSTRATION WITH US
-DEMONSTRATION WITH US
-DEMONSTRATION WITH US
-DEMONSTRATION WITH US
-DEMONSTRATION WITH US
-DEMONSTRATION WITH US
+
 DEMONSTRATION WITH US
 
 <br/>
