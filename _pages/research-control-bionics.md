@@ -45,7 +45,7 @@ Hugh M. Herr, "How we’ll become cyborgs and extend human potential", TED : Ide
 ## TB ML
 
 ML research
-{% include video_raw src ="/assets/videos/research/ml-tt-control.mp4" %}
+<!-- {% include video_raw src ="/assets/videos/research/ml-tt-control.mp4" %} -->
 
 
 <!-- A paragraph <br />
