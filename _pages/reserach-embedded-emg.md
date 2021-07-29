@@ -86,7 +86,7 @@ gallery_chf_result1:
 ## Abstract
 
 
-<figure style="width: 300px" class="align-left">
+<figure style="width: 400px" class="align-left">
   <a href="/assets/images/research-emg/emg-socket-square.png"><img src="/assets/images/research-emg/emg-socket-square.png"></a>
   <figcaption>Test caption emg-socket-square</figcaption>
 </figure> 
