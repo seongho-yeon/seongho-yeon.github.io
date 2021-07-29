@@ -461,19 +461,10 @@ CHF Explain
 </figure> 
 <!-- {% include gallery2 id="gallery_chf_explain" layout="half" caption="flexElec demo" %} -->
 
-GAP
 
-GAP
-CHF RESULT
+T
 
-
-CHF RESULT
-
-CHF RESULT
-
-
-CHF RESULT
-
+<p>Paragraph Test</p>
 
 <figure style="width: 600px" class="align-right">
   <a href="/assets/images/research-emg/chf-exp3.png"><img src="/assets/images/research-emg/chf-exp3.png"></a>
@@ -517,27 +508,9 @@ GAP
   <figcaption> CHF RMS DEMO</figcaption>
 </figure> 
 
+T
 
-CHF RESULT
-
-
-CHF RESULT
-
-
-CHF RESULT
-
-
-CHF RESULT
-
-
-CHF RESULT
-
-
-CHF RESULT
-
-
-CHF RESULT
-
+<p>Paragraph Test</p>
 
 <figure style="width: 600px" class="align-right">
    <a href="/assets/images/research-emg/emg-walking-demo.png"><img src="/assets/images/research-emg/emg-walking-demo.png"></a>
