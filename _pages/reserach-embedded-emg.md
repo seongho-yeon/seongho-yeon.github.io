@@ -140,10 +140,22 @@ V2 PROTOTYPE
 
 V2 PROTOTYPE
 
-<figure style="width: 250px" class="align-right">
+V2 PROTOTYPE
+
+V2 PROTOTYPE
+
+V2 PROTOTYPE
+
+<figure style="width: 450px" class="align-left">
   <img src="/assets/images/research-emg/system-pfd.PNG">
   <figcaption>P{FDFPFDF</figcaption>
 </figure> 
+
+Some design though - power flow diagram
+
+Some design though - power flow diagram
+
+Some design though - power flow diagram
 
 Some design though - power flow diagram
 
