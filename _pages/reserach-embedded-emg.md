@@ -454,7 +454,12 @@ CHF Alg dev- sSIMPLE
 CHF Explain
 
 
-{% include gallery2 id="gallery_chf_explain" layout="half" caption="flexElec demo" %}
+<figure style="width:400px" class="align-left">
+  <a href="/assets/images/research-emg/chf-exp1.png"><img src="/assets/images/research-emg/chf-exp1.png"></a>
+  <a href="/assets/images/research-emg/chf-exp2.png"><img src="/assets/images/research-emg/chf-exp2.png"></a>
+  <figcaption>TEST CHF CONFIG</figcaption>
+</figure> 
+<!-- {% include gallery2 id="gallery_chf_explain" layout="half" caption="flexElec demo" %} -->
 
 GAP
 
@@ -488,11 +493,6 @@ CHF RESULT
 
 {% include gallery2 id="gallery_chf_result1" layout="half" caption="flexElec demo" %}
 
-<figure style="width:400px" class="align-left">
-  <a href="/assets/images/research-emg/chf-exp1.png"><img src="/assets/images/research-emg/chf-exp1.png"></a>
-  <a href="/assets/images/research-emg/chf-exp2.png"><img src="/assets/images/research-emg/chf-exp2.png"></a>
-  <figcaption>TEST CHF CONFIG</figcaption>
-</figure> 
 
 GAP
 
