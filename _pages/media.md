@@ -25,13 +25,14 @@ classes: wide
 ---
 
 ### How we’ll become cyborgs and extend human potential @ TED2018
-Hugh M. Herr, "How we’ll become cyborgs and extend human potential", TED : Ideas Worth Spreading, Apr.2018, Demonstrating neurally controlled ankle prosthesis systems (dynamic powered ankle and quasi-passiverock climbinb ankle), Introduced as a member of "Team Cyborg" at MIT.
-{% include video id="PLk8Pm_XBJE" provider="youtube" %}
+Hugh M. Herr, "How we’ll become cyborgs and extend human potential", TED : Ideas Worth Spreading, Apr.2018, Demonstrating neurally controlled ankle prosthesis systems (dynamic powered ankle and quasi-passiverock climbinb ankle), Introduced as a member of "Team Cyborg" at MIT. \[[link](https://www.ted.com/talks/hugh_herr_how_we_ll_become_cyborgs_and_extend_human_potential)\]
+{% include video_raw src ="https://www.ted.com/talks/hugh_herr_how_we_ll_become_cyborgs_and_extend_human_potential?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare" %} 
+
 
 ---
 
 ### Augmented, STAT Documentary
-"Augmented", STAT Documentary, To be released, Demonstrated neurally controlled rock climbing ankleprosthesis system.
+"Augmented", STAT Documentary, To be released, Demonstrated neurally controlled rock climbing ankleprosthesis system.\[[link1](https://www.statnews.com/2018/05/30/pioneering-amputation-surgery-prosthetic-foot/)\]\[[link2](https://www.doclands.com/augmented/)\] 
 {% include video id="y_lA1N3La38" provider="youtube" %}
 
 ---

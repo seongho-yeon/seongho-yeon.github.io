@@ -525,7 +525,7 @@ GAP
 
 GAP
 
-<figure style="width: 600px" class="align-left">
+<figure style="width: 500px" class="align-left">
    <a href="/assets/images/research-emg/emg-rms-noise-demo.png"><img src="/assets/images/research-emg/emg-rms-noise-demo.png"></a>
   <figcaption> CHF RMS DEMO</figcaption>
 </figure> 
