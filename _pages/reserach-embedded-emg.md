@@ -94,6 +94,13 @@ Surface electromyography (sEMG), the least invasive technique among current peri
   <img src="/assets/images/research-emg/EMG_V0_2_SocketComplex3.jpg">
   <figcaption>emg-socket-square</figcaption>
 </figure> 
+SOCKET COMPLEX EXP
+SOCKET COMPLEX EXP
+SOCKET COMPLEX EXP
+SOCKET COMPLEX EXP
+SOCKET COMPLEX EXP
+SOCKET COMPLEX EXP
+SOCKET COMPLEX EXP
 
 
 My master thesis and design files are also available as follows:
@@ -115,12 +122,16 @@ d
 New EMG - 
 
 More channel for more capa esp using machine learning. 
-
 <figure style="width: 450px" class="align-right">
   <img src="/assets/images/research-emg/system-diagram-exp.PNG">
   <figcaption>emg v2</figcaption>
 </figure> 
-Explain New thing
+V2 PROTOTYPE
+V2 PROTOTYPE
+V2 PROTOTYPE
+V2 PROTOTYPE
+V2 PROTOTYPE
+
 
 <figure style="width: 250px" class="align-right">
   <img src="/assets/images/research-emg/system-pfd.PNG">
@@ -128,29 +139,45 @@ Explain New thing
 </figure> 
 Some design though - power flow diagram
 - adaptors
-
 - future arxiv paper.
 - codebase for emg1
 
 Related Papers: 
 
 
-<br></br>
+<br/>
 
 ---
 
 ## Exploratory EMG electrode
+
+Flexible electrode ABST
+Flexible electrode ABST
+Flexible electrode ABST
+Flexible electrode ABST
+Flexible electrode ABST
 
 <figure style="width: 400px" class="align-left">
   <img src="/assets/images/research-emg/flexible-electrode-abc.PNG">
   <figcaption>Electrode prototype - (c) IEEE</figcaption>
 </figure> 
 
+Flexible electrode ABST
+Flexible electrode ABST
+Flexible electrode ABST
+Flexible electrode ABST
+Flexible electrode ABST
 
-
-- fPCB electrode Photo
 
 {% include gallery2 id="gallery_SLIP_demo" layout="third" caption="flexElec demo" %}
+DEMONSTRATION WITH PROSTHESIS
+DEMONSTRATION WITH PROSTHESIS
+DEMONSTRATION WITH PROSTHESIS
+DEMONSTRATION WITH PROSTHESIS
+DEMONSTRATION WITH PROSTHESIS
+DEMONSTRATION WITH PROSTHESIS
+DEMONSTRATION WITH PROSTHESIS
+DEMONSTRATION WITH PROSTHESIS
 
 
 - Biorob Paper
@@ -163,9 +190,15 @@ Related Papers:
 
 Ultrasound demo
 {% include gallery2 id="gallery_US_demo" layout="third" caption="flexElec demo" %}
+DEMONSTRATION WITH US
+DEMONSTRATION WITH US
+DEMONSTRATION WITH US
+DEMONSTRATION WITH US
+DEMONSTRATION WITH US
+DEMONSTRATION WITH US
+DEMONSTRATION WITH US
 
-
-<br></br>
+<br/>
 
 ---
 
