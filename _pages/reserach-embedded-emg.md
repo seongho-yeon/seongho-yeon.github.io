@@ -105,8 +105,8 @@ Surface electromyography (sEMG), the least invasive technique among current peri
 EMG1
 
 <figure style="width: 500px" class="align-right">
-  <a href="/assets/images/research-emg//assets/images/research-emg/hw_summary.jpg"><img src="/assets/images/research-emg//assets/images/research-emg/hw_summary.jpg"></a>
-  <figcaption>Test caption emg-socket-square</figcaption>
+  <a href="/assets/images/research-emg/hw_summary.jpg"><img src="/assets/images/research-emg/hw_summary.jpg"></a>
+  <figcaption> emg1 block diagram</figcaption>
 </figure> 
 
 EMG1
@@ -185,6 +185,15 @@ Memory management
 Memory management
 
 Memory management
+
+Memory management
+
+Memory management
+
+Memory management
+
+Memory management
+
 
 Memory management
 
@@ -321,7 +330,7 @@ Flexible electrode ABST
 Flexible electrode ABST
 
 
-<figure style="width:500px" class="align-left">
+<figure style="width:400px" class="align-left">
   <a href="/assets/images/research-emg/flexible-electrode-abc.PNG"><img src="/assets/images/research-emg/flexible-electrode-abc.PNG"></a>
   <figcaption>Electrode prototype - (c) IEEE</figcaption>
 </figure> 
@@ -369,17 +378,16 @@ DEMONSTRATION WITH PROSTHESIS
 
 
 Ultrasound demo
-{% include gallery2 id="gallery_US_demo" layout="half" caption="flexElec demo" %}
+<!-- {% include gallery2 id="gallery_US_demo" layout="half" caption="flexElec demo" %} -->
 
 
 TEST diff config
 
-<figure style="width: 400px" class="align-left">
+<figure style="width: 335px" class="align-left">
   <a href="/assets/images/research-emg/exp-setup-human2.png"><img src="/assets/images/research-emg/exp-setup-human2.png"></a>
   <figcaption> US test 1</figcaption>
 </figure> 
-
-<figure style="width: 400px" class="align-left">
+<figure style="width: 377px" class="align-left">
   <a href="/assets/images/research-emg/us-emg-probe.PNG"><img src="/assets/images/research-emg/us-emg-probe.PNG"></a>
   <figcaption> US test 1</figcaption>
 </figure> 
