@@ -18,7 +18,7 @@ classes: wide
 
 
 TED climbing
-{% include video_raw src ="https://www.youtube.com/embed/PLk8Pm_XBJE?start=841&end=879" %}
+{% include video_raw src ="https://www.youtube.com/embed/PLk8Pm_XBJE?start=841&end=879;" %}
 
 
 #### How we’ll become cyborgs and extend human potential @ TED2018
@@ -31,17 +31,18 @@ Hugh M. Herr, "How we’ll become cyborgs and extend human potential", TED : Ide
 - 
 #### This MIT Engineer Built His Own Bionic Leg
 "This MIT Engineer Built His Own Bionic Leg", Bloomberg Documentary, Dec. 2019. Demonstrating neurally controlled ankle prosthesis system.
-{% include video_raw src ="https://www.youtube.com/embed/kaFiwC1xh2Y?start=277&end=335" %}
+{% include video_raw src ="https://www.youtube.com/embed/kaFiwC1xh2Y?start=277&end=335;" %}
 
 
 ## Transtibial Control
 
 #### TED emg torque
-{% include video_raw src ="https://www.youtube.com/embed/PLk8Pm_XBJE?start=33&end=53" %}
+{% include video_raw src ="https://www.youtube.com/embed/PLk8Pm_XBJE?start=33&end=53;" %}
 
+<iframe width="1796" height="666" src="https://www.youtube.com/embed/PLk8Pm_XBJE?start=33&end=53;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### M carney
-{% include video_raw src ="https://www.youtube.com/embed/-a7PJ0MHmBQ?start=09&end=14" %}
+{% include video_raw src ="https://www.youtube.com/embed/-a7PJ0MHmBQ?start=09&end=14;" %}
 
 
 ## TB ML
