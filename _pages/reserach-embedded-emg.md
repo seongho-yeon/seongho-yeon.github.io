@@ -81,7 +81,6 @@ gallery_chf_result1:
   - url:  /assets/images/research-emg/chf-tp-noise-sup.png
     image_path: /assets/images/research-emg/chf-tp-noise-sup.png
 
-
 ---
 
 ## Abstract
@@ -189,6 +188,13 @@ Memory management
 Memory management
 
 Memory management
+
+Memory management
+
+Memory management
+
+Memory management
+
 
 <!-- {% include gallery2 id="gallery_emg_designconcept" layout="third" caption="Some design thoughts" %} -->
 
