@@ -1,9 +1,9 @@
 ---
 layout: single
+classes: wide
 title: Advanced Electromyography for Human Biomechanics and Bionics Research
 permalink: /docs/research/research-embedded-emg
-author_profile: false
-classes: wide
+author_profile: true
 
 gallery_emgabstract:
   - url:  /assets/images/research-emg/emg-socket-square.png
