@@ -88,7 +88,7 @@ gallery_chf_result1:
 
 
 <figure style="width: 300px" class="align-left">
-  <img src="/assets/images/research-emg/emg-socket-square.png">
+  <a href="/assets/images/research-emg/emg-socket-square.png"><img src="/assets/images/research-emg/emg-socket-square.png"></a>
   <figcaption>Test caption emg-socket-square</figcaption>
 </figure> 
 
@@ -103,19 +103,101 @@ Surface electromyography (sEMG), the least invasive technique among current peri
 
 ### version 1 - 8 channel
 
-{% include gallery2 id="gallery_emg_prototype" caption="EMG System Diagram." %} 
+EMG1
+
+<figure style="width: 500px" class="align-right">
+  <a href="/assets/images/research-emg//assets/images/research-emg/hw_summary.jpg"><img src="/assets/images/research-emg//assets/images/research-emg/hw_summary.jpg"></a>
+  <figcaption>Test caption emg-socket-square</figcaption>
+</figure> 
+
+EMG1
+
+EMG1
+
+EMG1
+
+EMG1
+
+EMG1
+
+EMG1
+
+EMG1
+
+<!-- 
+{% include gallery2 id="gallery_emg_prototype" caption="EMG System Diagram." %}  -->
 
 - emg 1 design HW photos + file
 
 
-{% include gallery2 id="gallery_emg_designconcept" layout="third" caption="Some design thoughts" %}
+
+<figure style="width: 500px" class="align-left">
+  <a href="/assets/images/research-emg/afe-architecture.PNG"><img src="/assets/images/research-emg/afe-architecture.PNG"></a>
+  <figcaption>AFE Design</figcaption>
+</figure> 
+
+AFE DESIGN
+
+AFE DESIGN
+
+AFE DESIGN
+
+AFE DESIGN
+
+AFE DESIGN
+
+AFE DESIGN
+
+
+<figure style="width: 500px" class="align-right">
+  <a href="/assets/images/research-emg/os-schedule-scheme.PNG"><img src="/assets/images/research-emg/os-schedule-scheme.PNG"></a>
+  <figcaption>OS Scheduling</figcaption>
+</figure> 
+
+OS SCHEDULING
+
+OS SCHEDULING
+
+OS SCHEDULING
+
+OS SCHEDULING
+
+OS SCHEDULING
+
+OS SCHEDULING
+
+OS SCHEDULING
+
+
+<figure style="width: 500px" class="align-left">
+  <a href="/assets/images/research-emg/memory-buffering.PNG"><img src="/assets/images/research-emg/memory-buffering.PNG"></a>
+  <figcaption>Test caption emg-socket-square</figcaption>
+</figure> 
+
+Memory management
+
+Memory management
+
+Memory management
+
+Memory management
+
+Memory management
+
+Memory management
+
+Memory management
+
+Memory management
+
+<!-- {% include gallery2 id="gallery_emg_designconcept" layout="third" caption="Some design thoughts" %} -->
 
 
 {% include gallery2 id="gallery_emg_verification" layout="third" caption="Some design thoughts" %}
 
 
 <figure style="width: 300px" class="align-right">
-  <img src="/assets/images/research-emg/EMG_V0_2_SocketComplex3.jpg">
+  <a href="/assets/images/research-emg/EMG_V0_2_SocketComplex3.jpg"><img src="/assets/images/research-emg/EMG_V0_2_SocketComplex3.jpg"></a>
   <figcaption>emg-socket-square</figcaption>
 </figure> 
 
@@ -143,13 +225,36 @@ My master thesis and design files are also available as follows:
 
 ### version 2 - 16 channel
 
+
+<figure style="width: 600px" class="align-left">
+  <a href="/assets/images/research-emg/system-diagram.PNG"><img src="/assets/images/research-emg/system-diagram.PNG"></a>
+  <figcaption>emg v2 system diagram</figcaption>
+</figure> 
+
+EMG V2 System Diagram
+EMG V2 System Diagram
+
+EMG V2 System Diagram
+
+EMG V2 System Diagram
+
+EMG V2 System Diagram
+
+EMG V2 System Diagram
+
+EMG V2 System Diagram
+EMG V2 System Diagram
+
+EMG V2 System Diagram
+
+S
 New EMG - 
 
 More channel for more capa esp using machine learning. 
 
 <figure style="width: 600px" class="align-right">
-  <img src="/assets/images/research-emg/system-diagram-exp.PNG">
-  <figcaption>emg v2</figcaption>
+  <a href="/assets/images/research-emg/system-diagram-exp.PNG"><img src="/assets/images/research-emg/system-diagram-exp.PNG"></a>
+  <figcaption>emg v2 board</figcaption>
 </figure> 
 
 V2 PROTOTYPE
@@ -171,7 +276,7 @@ V2 PROTOTYPE
 V2 PROTOTYPE
 
 <figure style="width: 600px" class="align-left">
-  <img src="/assets/images/research-emg/system-pfd.PNG">
+  <a href="/assets/images/research-emg/system-pfd.PNG"><img src="/assets/images/research-emg/system-pfd.PNG"></a>
   <figcaption>P{FDFPFDF</figcaption>
 </figure> 
 
@@ -210,7 +315,7 @@ Flexible electrode ABST
 
 
 <figure style="width:500px" class="align-left">
-  <img src="/assets/images/research-emg/flexible-electrode-abc.PNG">
+  <a href="/assets/images/research-emg/flexible-electrode-abc.PNG"><img src="/assets/images/research-emg/flexible-electrode-abc.PNG"></a>
   <figcaption>Electrode prototype - (c) IEEE</figcaption>
 </figure> 
 
@@ -264,7 +369,7 @@ DEMONSTRATION WITH US
 DEMONSTRATION WITH US
 
 <figure style="width: 600px" class="align-right">
-  <img src="/assets/images/research-emg/emg-us-gathered.PNG">
+  <a href="/assets/images/research-emg/emg-us-gathered.PNG"><img src="/assets/images/research-emg/emg-us-gathered.PNG"></a>
   <figcaption>emg US result</figcaption>
 </figure> 
 
@@ -295,7 +400,7 @@ US-SLIP DEMO
 EXP CHF CONCEPT
 
 <figure style="width: 400px" class="align-left">
-  <img src="/assets/images/research-emg/chf-dsp.PNG">
+  <a href="/assets/images/research-emg/chf-dsp.PNG"><img src="/assets/images/research-emg/chf-dsp.PNG"></a>
   <figcaption>CHF</figcaption>
 </figure> 
 
@@ -323,7 +428,7 @@ GAP
 
 
 <figure style="width: 600px" class="align-right">
-  <img src="/assets/images/research-emg/chf-exp3.png">
+  <a href="/assets/images/research-emg/chf-exp3.png"><img src="/assets/images/research-emg/chf-exp3.png"></a>
   <figcaption>CHF EXP3</figcaption>
 </figure> 
 
@@ -355,7 +460,7 @@ GAP
 
 
 <figure style="width: 600px" class="align-left">
-  <img src="/assets/images/research-emg/emg-rms-noise-demo.png">
+   <a href="/assets/images/research-emg/emg-rms-noise-demo.png"><img src="/assets/images/research-emg/emg-rms-noise-demo.png"></a>
   <figcaption> CHF RMS DEMO</figcaption>
 </figure> 
 
@@ -382,7 +487,7 @@ CHF RESULT
 
 
 <figure style="width: 600px" class="align-right">
-  <img src="/assets/images/research-emg/emg-walking-demo.png">
+   <a href="/assets/images/research-emg/emg-walking-demo.png"><img src="/assets/images/research-emg/emg-walking-demo.png"></a>
   <figcaption> CHF walking</figcaption>
 </figure> 
 
