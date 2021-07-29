@@ -378,10 +378,7 @@ DEMONSTRATION WITH PROSTHESIS
 
 
 Ultrasound demo
-<!-- {% include gallery2 id="gallery_US_demo" layout="half" caption="flexElec demo" %} -->
 
-
-TEST diff config
 
 <figure style="width: 335px" class="align-left">
   <a href="/assets/images/research-emg/exp-setup-human2.png"><img src="/assets/images/research-emg/exp-setup-human2.png"></a>
