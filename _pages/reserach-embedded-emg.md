@@ -315,7 +315,7 @@ CHF Alg dev- sSIMPLE
 
 CHF Explain
 
-{% include gallery2 id="gallery_chf_explain" layout="third" caption="flexElec demo" %}
+{% include gallery2 id="gallery_chf_explain" layout="half" caption="flexElec demo" %}
 
 GAP
 
@@ -334,13 +334,24 @@ CHF-EXP
 CHF-EXP 
 
 CHF-EXP 
+
 CHF-EXP 
 
 
 CHF RESULT
 
-{% include gallery2 id="gallery_chf_result1" layout="third" caption="flexElec demo" %}
 
+CHF RESULT
+
+CHF RESULT
+
+CHF RESULT
+
+{% include gallery2 id="gallery_chf_result1" layout="half" caption="flexElec demo" %}
+
+GAP
+
+GAP
 
 
 <figure style="width: 600px" class="align-left">
@@ -370,7 +381,7 @@ CHF RESULT
 CHF RESULT
 
 
-<figure style="width: 600px" class="align-left">
+<figure style="width: 600px" class="align-right">
   <img src="/assets/images/research-emg/emg-walking-demo.png">
   <figcaption> CHF walking</figcaption>
 </figure> 
