@@ -54,8 +54,32 @@ gallery_US_demo:
   - url:  /assets/images/research-emg/us-emg-probe.PNG
     image_path: /assets/images/research-emg/us-emg-probe.PNG
 
-  - url:  /assets/images/research-emg/result-TA-we-EMG.png
-    image_path: /assets/images/research-emg/result-TA-we-EMG.png
+  # - url:  /assets/images/research-emg/result-TA-we-EMG.png
+  #   image_path: /assets/images/research-emg/result-TA-we-EMG.png
+
+gallery_chf_alg:
+  - url:  /assets/images/research-emg/chf-alg1.PNG
+    image_path: /assets/images/research-emg/chf-alg1.PNG
+
+  - url:  /assets/images/research-emg/chf-alg2.PNG
+    image_path: /assets/images/research-emg/chf-alg2.PNG
+  - url:  /assets/images/research-emg/chf-alg3.PNG
+    image_path: /assets/images/research-emg/chf-alg3.PNG
+
+
+gallery_chf_explain:
+  - url:  /assets/images/research-emg/chf-exp1.png
+    image_path: /assets/images/research-emg/chf-exp1.png
+
+  - url:  /assets/images/research-emg/chf-exp2.png
+    image_path: /assets/images/research-emg/chf-exp2.png
+
+gallery_chf_result1:
+  - url:  /assets/images/research-emg/chf-tp-noise-sup.png
+    image_path: /assets/images/research-emg/chf-tp-snr.png
+
+  - url:  /assets/images/research-emg/chf-exp2.png
+    image_path: /assets/images/research-emg/chf-exp2.png
 
 
 ---
@@ -123,7 +147,7 @@ New EMG -
 
 More channel for more capa esp using machine learning. 
 
-<figure style="width: 450px" class="align-right">
+<figure style="width: 500px" class="align-right">
   <img src="/assets/images/research-emg/system-diagram-exp.PNG">
   <figcaption>emg v2</figcaption>
 </figure> 
@@ -146,7 +170,7 @@ V2 PROTOTYPE
 
 V2 PROTOTYPE
 
-<figure style="width: 450px" class="align-left">
+<figure style="width: 500px" class="align-left">
   <img src="/assets/images/research-emg/system-pfd.PNG">
   <figcaption>P{FDFPFDF</figcaption>
 </figure> 
@@ -189,7 +213,7 @@ Flexible electrode ABST
 Flexible electrode ABST
 
 
-<figure style="width: 400px" class="align-left">
+<figure style="width:500px" class="align-left">
   <img src="/assets/images/research-emg/flexible-electrode-abc.PNG">
   <figcaption>Electrode prototype - (c) IEEE</figcaption>
 </figure> 
@@ -235,11 +259,129 @@ Ultrasound demo
 
 DEMONSTRATION WITH US
 
+
+<figure style="width: 500px" class="align-right">
+  <img src="/assets/images/research-emg/emg-us-gathered.PNG">
+  <figcaption>emg US result</figcaption>
+</figure> 
+
+US-SLIP DEMO
+
+US-SLIP DEMO
+
+US-SLIP DEMO
+
+US-SLIP DEMO
+
+US-SLIP DEMO
+
+US-SLIP DEMO
+
+US-SLIP DEMO
+
+US-SLIP DEMO
+
+
+
 <br/>
 
 ---
 
-## EMG signal processing 
+## EMG Signal Processing - Impulse Artifact Filtering
+
+EXP CHF CONCEPT
+
+<figure style="width: 500px" class="align-left">
+  <img src="/assets/images/research-emg/chf-dsp.PNG">
+  <figcaption>CHF</figcaption>
+</figure> 
+
+EXP CHF CONCEPT
+
+EXP CHF CONCEPT
+
+EXP CHF CONCEPT
+
+EXP CHF CONCEPT
+
+
+CHF Alg dev- sSIMPLE
+
+{% include gallery2 id="gallery_chf_alg" layout="third" caption="flexElec demo" %}
+
+
+CHF Explain
+
+{% include gallery2 id="gallery_chf_explain" layout="third" caption="flexElec demo" %}
+
+GAP
+
+GAP
+
+
+<figure style="width: 500px" class="align-right">
+  <img src="/assets/images/research-emg/chf-exp3.PNG">
+  <figcaption>CHF EXP3</figcaption>
+</figure> 
+
+CHF-EXP 
+
+CHF-EXP 
+
+CHF-EXP 
+
+CHF-EXP 
+CHF-EXP 
+
+
+CHF RESULT
+
+{% include gallery2 id="gallery_chf_result1" layout="third" caption="flexElec demo" %}
+
+
+
+<figure style="width: 500px" class="align-left">
+  <img src="/assets/images/research-emg/emg-rms-noise-demo.png">
+  <figcaption> CHF RMS DEMO</figcaption>
+</figure> 
+
+
+CHF RESULT
+
+
+CHF RESULT
+
+
+CHF RESULT
+
+
+CHF RESULT
+
+
+CHF RESULT
+
+
+CHF RESULT
+
+
+CHF RESULT
+
+
+<figure style="width: 500px" class="align-left">
+  <img src="/assets/images/research-emg/eemg-walking-demo.png">
+  <figcaption> CHF walking</figcaption>
+</figure> 
+
+CHF walking demo
+
+CHF walking demo
+
+CHF walking demo
+
+CHF walking demo
+
+CHF walking demo
+
 
 - impulse artifact filtering
 - real-time control of exo + bionic prosthesis
