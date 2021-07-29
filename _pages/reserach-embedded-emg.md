@@ -37,6 +37,26 @@ gallery_emg_verification:
   - url:  /assets/images/research-emg/noise_psd_wet.png
     image_path: /assets/images/research-emg/noise_psd_wet.png
 
+gallery_SLIP_demo:
+  - url:  /assets/images/research-emg/fig8c_electrode-attached.PNG
+    image_path: /assets/images/research-emg/fig8c_electrode-attached.PNG
+
+  - url:  /assets/images/research-emg/fig8e_electrode-liner1.PNG
+    image_path: /assets/images/research-emg/fig8e_electrode-liner1.PNG
+
+  - url:  /assets/images/research-emg/fig14a_comfort-slip-electrode.jpg
+    image_path: /assets/images/research-emg/fig14a_comfort-slip-electrode.jpg
+
+gallery_US_demo:
+  - url:  /assets/images/research-emg/exp-setup-human2.png
+    image_path: /assets/images/research-emg/exp-setup-human2.png
+
+  - url:  /assets/images/research-emg/us-emg-probe.PNG
+    image_path: /assets/images/research-emg/us-emg-probe.PNG
+
+  - url:  /assets/images/research-emg/result-TA-we-EMG.png
+    image_path: /assets/images/research-emg/result-TA-we-EMG.png
+
 
 ---
 
@@ -80,25 +100,72 @@ My master thesis and design files are also available as follows:
 
 \[[MIT master thesis link](https://dspace.mit.edu/handle/1721.1/124074)\]
 \[[Design files-to be added later through media lab portal]\()]
+asdsadas
+asdasd
+asd
+sad
+asd
+as
+d
 
-- emg2 design photos + file
-- firmware?
+<br></br>
+
+### version 2 - 16 channel
+
+New EMG - 
+
+More channel for more capa esp using machine learning. 
+
+<figure style="width: 450px" class="align-right">
+  <img src="/assets/images/research-emg/system-diagram-exp.PNG">
+  <figcaption>emg v2</figcaption>
+</figure> 
+Explain New thing
+
+<figure style="width: 250px" class="align-right">
+  <img src="/assets/images/research-emg/system-pfd.PNG">
+  <figcaption>P{FDFPFDF</figcaption>
+</figure> 
+Some design though - power flow diagram
 - adaptors
 
 - future arxiv paper.
 - codebase for emg1
 
 Related Papers: 
+
+
+<br></br>
+
 ---
 
 ## Exploratory EMG electrode
 
+<figure style="width: 400px" class="align-left">
+  <img src="/assets/images/research-emg/flexible-electrode-abc.PNG">
+  <figcaption>Electrode prototype - (c) IEEE</figcaption>
+</figure> 
+
+
+
 - fPCB electrode Photo
+
+{% include gallery2 id="gallery_SLIP_demo" layout="third" caption="flexElec demo" %}
+
+
 - Biorob Paper
 - TMRB paper 
 - EMBC Ultrasound
 
 - EMG spec during walking
+
+
+
+Ultrasound demo
+{% include gallery2 id="gallery_US_demo" layout="third" caption="flexElec demo" %}
+
+
+<br></br>
 
 ---
 
