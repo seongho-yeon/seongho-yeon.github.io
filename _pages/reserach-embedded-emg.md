@@ -463,9 +463,10 @@ CHF Explain
 
 
 T
-
+<br />
 <p>Paragraph Test</p>
-
+<br />
+AA
 <figure style="width: 600px" class="align-right">
   <a href="/assets/images/research-emg/chf-exp3.png"><img src="/assets/images/research-emg/chf-exp3.png"></a>
   <figcaption>CHF EXP3</figcaption>
@@ -509,6 +510,7 @@ GAP
 </figure> 
 
 T
+<br />
 
 <p>Paragraph Test</p>
 
