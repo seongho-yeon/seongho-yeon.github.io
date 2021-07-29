@@ -242,7 +242,7 @@ My master thesis and design files are also available as follows:
 ### version 2 - 16 channel
 
 
-<figure style="width: 600px" class="align-left">
+<figure style="width: 400px" class="align-left">
   <a href="/assets/images/research-emg/system-diagram.PNG"><img src="/assets/images/research-emg/system-diagram.PNG"></a>
   <figcaption>emg v2 system diagram</figcaption>
 </figure> 
@@ -464,6 +464,15 @@ CHF Explain
 GAP
 
 GAP
+CHF RESULT
+
+
+CHF RESULT
+
+CHF RESULT
+
+
+CHF RESULT
 
 
 <figure style="width: 600px" class="align-right">
@@ -491,27 +500,17 @@ CHF RESULT
 
 CHF RESULT
 
+
+CHF RESULT
+
+CHF RESULT
+
 {% include gallery2 id="gallery_chf_result1" layout="half" caption="flexElec demo" %}
 
 
 GAP
 
 GAP
-
-GAP
-
-GAP
-
-GAP
-
-GAP
-
-GAP
-
-GAP
-
-GAP
-
 
 <figure style="width: 600px" class="align-left">
    <a href="/assets/images/research-emg/emg-rms-noise-demo.png"><img src="/assets/images/research-emg/emg-rms-noise-demo.png"></a>
@@ -559,4 +558,19 @@ CHF walking demo
 - impulse artifact filtering
 - real-time control of exo + bionic prosthesis
 - EMBC paepr 
+
+## Summary
+
+Summarized file
+
+- collaborators
+- PAPERs
+- Designs
+
+- Biorob Paper
+- TMRB paper 
+- EMBC Ultrasound
+
+- EMG spec during walking
+
 
