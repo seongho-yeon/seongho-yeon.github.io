@@ -147,7 +147,7 @@ New EMG -
 
 More channel for more capa esp using machine learning. 
 
-<figure style="width: 500px" class="align-right">
+<figure style="width: 600px" class="align-right">
   <img src="/assets/images/research-emg/system-diagram-exp.PNG">
   <figcaption>emg v2</figcaption>
 </figure> 
@@ -170,7 +170,7 @@ V2 PROTOTYPE
 
 V2 PROTOTYPE
 
-<figure style="width: 500px" class="align-left">
+<figure style="width: 600px" class="align-left">
   <img src="/assets/images/research-emg/system-pfd.PNG">
   <figcaption>P{FDFPFDF</figcaption>
 </figure> 
@@ -202,13 +202,6 @@ Related Papers:
 
 ## Exploratory EMG electrode
 
-Flexible electrode ABST
-
-Flexible electrode ABST
-
-Flexible electrode ABST
-
-Flexible electrode ABST
 
 Flexible electrode ABST
 
