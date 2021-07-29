@@ -206,6 +206,9 @@ Related Papers:
 Flexible electrode ABST
 
 
+Flexible electrode ABST
+
+
 <figure style="width:500px" class="align-left">
   <img src="/assets/images/research-emg/flexible-electrode-abc.PNG">
   <figcaption>Electrode prototype - (c) IEEE</figcaption>
@@ -221,6 +224,12 @@ Flexible electrode ABST
 
 Flexible electrode ABST
 
+
+Flexible electrode ABST
+
+Flexible electrode ABST
+
+Flexible electrode ABST
 
 Flexible electrode ABST
 
@@ -248,12 +257,13 @@ DEMONSTRATION WITH PROSTHESIS
 
 
 Ultrasound demo
-{% include gallery2 id="gallery_US_demo" layout="third" caption="flexElec demo" %}
+{% include gallery2 id="gallery_US_demo" layout="half" caption="flexElec demo" %}
 
 DEMONSTRATION WITH US
 
+DEMONSTRATION WITH US
 
-<figure style="width: 500px" class="align-right">
+<figure style="width: 600px" class="align-right">
   <img src="/assets/images/research-emg/emg-us-gathered.PNG">
   <figcaption>emg US result</figcaption>
 </figure> 
@@ -312,8 +322,8 @@ GAP
 GAP
 
 
-<figure style="width: 500px" class="align-right">
-  <img src="/assets/images/research-emg/chf-exp3.PNG">
+<figure style="width: 600px" class="align-right">
+  <img src="/assets/images/research-emg/chf-exp3.png">
   <figcaption>CHF EXP3</figcaption>
 </figure> 
 
@@ -333,7 +343,7 @@ CHF RESULT
 
 
 
-<figure style="width: 500px" class="align-left">
+<figure style="width: 600px" class="align-left">
   <img src="/assets/images/research-emg/emg-rms-noise-demo.png">
   <figcaption> CHF RMS DEMO</figcaption>
 </figure> 
@@ -360,8 +370,8 @@ CHF RESULT
 CHF RESULT
 
 
-<figure style="width: 500px" class="align-left">
-  <img src="/assets/images/research-emg/eemg-walking-demo.png">
+<figure style="width: 600px" class="align-left">
+  <img src="/assets/images/research-emg/emg-walking-demo.png">
   <figcaption> CHF walking</figcaption>
 </figure> 
 
