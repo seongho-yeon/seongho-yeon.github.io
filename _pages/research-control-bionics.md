@@ -38,6 +38,8 @@ Hugh M. Herr, "How we’ll become cyborgs and extend human potential", TED : Ide
 
 #### TED emg torque
 {% include video_raw src ="https://www.youtube.com/embed/PLk8Pm_XBJE?start=33&end=53;" %}
+
+
 #### M carney
 {% include video_raw src ="https://www.youtube.com/embed/-a7PJ0MHmBQ?start=09&end=14;" %}
 
