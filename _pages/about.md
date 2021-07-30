@@ -9,18 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D student
-MIT
-
-ABOUT
-
-ABOUT
-
-ABOUT
-
-ABOUT
-
-ABOUT
+The website is currently under construction. It will be fully constructed by Aug. 3rd.
 
 
 <figure style="width: 600px" class="align-center">
