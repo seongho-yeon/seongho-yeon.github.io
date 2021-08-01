@@ -50,6 +50,6 @@ Video
 
 
 <figure style="width: 500px" class="align-right">
-  <a href="/assets/images/naverlabs-ttbot/prj1_nl_teamphoto1.jpg"><img src="/assets/images/naverlabs-ttbot/prj_n1_teamphoto1.jpg"></a>
+  <a href="/assets/images/naverlabs-ttbot/prj_n1_teamphoto1.jpg"><img src="/assets/images/naverlabs-ttbot/prj_n1_teamphoto1.jpg"></a>
   <figcaption> emg1 block diagram</figcaption>
 </figure> 
