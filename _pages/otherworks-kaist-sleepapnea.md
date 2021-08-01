@@ -11,7 +11,7 @@ classes: wide
 
 
 <figure style="width: 400px" class="align-left">
-  <a href="/assets/images/kaist-sleepapneamonitor/title-square.jpg"><img src="/assets/images/kaist-sleepapneamonitor/title-square.jpg"></a>
+  <a href="/assets/images/kaist-sleepapneamonitor/title-square.png"><img src="/assets/images/kaist-sleepapneamonitor/title-square.png"></a>
   <figcaption>Test caption TTBot</figcaption>
 </figure> 
 

@@ -51,14 +51,14 @@ feature_row_georgiatech:
   btn_label: "[GT] Senior Design Project"
 
 feature_row_kaist:
-- image_path: /assets/images/kaist-sleepapneamonitor/title-square.jpg
+- image_path: /assets/images/kaist-sleepapneamonitor/title-square.png
   image_url: "/docs/otherworks/otherworks-kaist-sleepapnea" 
   url: "/docs/otherworks/otherworks-kaist-sleepapnea" 
   btn_class: "btn"
   btn_size: "btn--small"
   btn_label: "[KAIST] Sleep Apnea Detection System"
   
-- image_path: /assets/images/kaist-pedometer/implementation-square.jpg
+- image_path: /assets/images/kaist-pedometer/implementation-square.png
   image_url: "/docs/otherworks/otherworks-kaist-pedometer" 
   url: "/docs/otherworks/otherworks-kaist-pedometer" 
   btn_class: "btn"

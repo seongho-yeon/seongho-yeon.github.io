@@ -9,7 +9,7 @@ classes: wide
 [KAIST] Capcitance based Pedometer
 
 <figure style="width: 400px" class="align-left">
-  <a href="/assets/images/kaist-pedometer/implementation-square.jpg"><img src="/assets/images/kaist-pedometer/implementation-square.jpg"></a>
+  <a href="/assets/images/kaist-pedometer/implementation-square.png"><img src="/assets/images/kaist-pedometer/implementation-square.png"></a>
   <figcaption>Test caption TTBot</figcaption>
 </figure> 
 
