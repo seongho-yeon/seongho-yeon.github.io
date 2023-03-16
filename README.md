@@ -1,1 +1,1 @@
-This is the source code to Seong Go Yeon's website: https://seongho-yeon.github.io/. 
+This is the source code to Seong Ho Yeon's website: https://seongho-yeon.github.io/. 
